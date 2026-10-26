@@ -47,6 +47,7 @@ class OnlineAdapter implements MarketAdapter {
   private clock=new ServerClock();
   private clockTimer: ReturnType<typeof setInterval>;
   private probeId=0;
+  private lastProbeAt=-Infinity;
   private probes=new Map<number,number>();
   constructor(
     private room: Room,
@@ -58,7 +59,11 @@ class OnlineAdapter implements MarketAdapter {
     room.reconnection.maxDelay = 5000;
     room.onMessage("snapshot", (snapshot: MarketSnapshot) => {
       this.snapshot = snapshot;
-      this.clock.observe(snapshot.serverNow,performance.now());
+      const received=performance.now();
+      this.clock.observe(snapshot.serverNow,received);
+      // Background tabs throttle timers. Server updates keep clock probes and
+      // connection liveness running without relying on render timer ticks.
+      if(received-this.lastProbeAt>=10000) this.probe();
       this.emit();
     });
     room.onMessage("private", (value: PrivateState) => {
@@ -100,12 +105,11 @@ class OnlineAdapter implements MarketAdapter {
     this.remember();
     room.send("sync");
     this.probe();
-    let ticks=0;
-    this.clockTimer=setInterval(()=>{if(++ticks%40===0&&this.status==="connected")this.probe();this.emit();},250);
+    this.clockTimer=setInterval(()=>this.emit(),250);
   }
   private probe() {
     this.probes.clear();
-    const id=++this.probeId;this.probes.set(id,performance.now());this.room.send("time",{id});
+    const id=++this.probeId;this.lastProbeAt=performance.now();this.probes.set(id,this.lastProbeAt);this.room.send("time",{id});
   }
   getServerNow = () => this.clock.now(performance.now());
   private remember() {
