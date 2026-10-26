@@ -32,6 +32,8 @@ Full revealed receipts, winning purchase prices, appraisals, participant ranks, 
 
 ## Persistent backend and web hosting
 
+For the current Vercel site's private-address error and the prepared production container, follow [connect the public website](PRODUCTION-SETUP.md). The Vercel frontend and local Docker services are separate; the deployed frontend needs the public backend origin in both API_ORIGIN and NEXT_PUBLIC_WS_URL at build time.
+
 Deploy exactly **one** always-on Node service with WebSocket upgrade support. Install with `npm ci --omit=dev`; tsx is a runtime dependency. Supply the backend environment variables and run `npm run server`. Terminate HTTPS/WSS at the hosting platform or reverse proxy and forward upgrades to PORT. Do not put the Colyseus process inside a Next.js serverless function. Configure `/health` as a readiness check: it returns 200 only when PostgreSQL answers a query, otherwise 503. Give SIGTERM a shutdown grace period of at least 30 seconds so in-flight completed-result writes can finish. The backend clears matchmaking timers, disposes rooms and closes its database pool through Colyseus shutdown hooks.
 
 Build the frontend with `npm ci` and `npm run build`, supplying NEXT_PUBLIC_WS_URL and API_ORIGIN at build time. Run it with `npm start` or deploy the Next.js frontend to Vercel. Keep the same frontend origin in APP_ORIGIN. HTTPS frontend and backend certificates must be valid; test WebSocket upgrades, cookie-based `/api/me`, invites and refresh reconnection on the deployed domains before opening access.

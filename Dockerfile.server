@@ -1,0 +1,20 @@
+FROM node:24-bookworm-slim
+
+WORKDIR /app
+ENV NODE_ENV=production
+ENV PORT=2567
+
+COPY package.json package-lock.json ./
+RUN npm ci --omit=dev --no-audit --no-fund && npm cache clean --force
+
+COPY --chown=node:node tsconfig.json ./
+COPY --chown=node:node server/ ./server/
+COPY --chown=node:node src/catalog/ ./src/catalog/
+COPY --chown=node:node src/domain/ ./src/domain/
+COPY --chown=node:node src/shared/ ./src/shared/
+COPY --chown=node:node scripts/env.mjs scripts/db-init.ts ./scripts/
+
+USER node
+EXPOSE 2567
+STOPSIGNAL SIGTERM
+CMD ["node", "--import", "./scripts/env.mjs", "--import", "tsx", "server/index.ts"]
