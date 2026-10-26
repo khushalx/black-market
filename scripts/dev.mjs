@@ -1,9 +1,8 @@
 import { spawn } from "node:child_process";
-import { existsSync } from "node:fs";
-import { loadEnvFile } from "node:process";
 import { Client } from "pg";
+import "./env.mjs";
+import { startComposeDatabase } from "./db-compose.mjs";
 
-if (existsSync(".env")) loadEnvFile(".env");
 const defaultDatabase =
   "postgres://blackmarket:blackmarket@127.0.0.1:54329/blackmarket";
 const databaseUrl = process.env.DATABASE_URL ?? defaultDatabase;
@@ -61,8 +60,9 @@ async function waitUntil(check, label, timeout) {
   );
 }
 try {
-  if (databaseUrl === defaultDatabase)
-    run(["--import", "tsx", "scripts/db-dev.ts"]);
+  const target = new URL(databaseUrl);
+  if (["localhost", "127.0.0.1"].includes(target.hostname) && target.port === "54329")
+    startComposeDatabase();
   await waitUntil(
     async () => {
       const client = new Client({
@@ -82,7 +82,7 @@ try {
     "PostgreSQL",
     45000,
   );
-  run(["--env-file-if-exists=.env", "--import", "tsx", "server/index.ts"]);
+  run(["--import", "./scripts/env.mjs", "--import", "tsx", "server/index.ts"]);
   await waitUntil(
     async () => {
       try {
@@ -98,7 +98,8 @@ try {
     "Colyseus",
     30000,
   );
-  run(["node_modules/next/dist/bin/next", "dev", "--hostname", "0.0.0.0"]);
+  // PORT configures Colyseus in the shared environment, so pin the web port.
+  run(["node_modules/next/dist/bin/next", "dev", "--hostname", "0.0.0.0", "--port", "3000"]);
 } catch (error) {
   console.error(error.message);
   await stop(1);

@@ -2,9 +2,11 @@
 
 ## Local development
 
-Use Node.js 24 LTS and `npm ci`, then `npm run dev`. The launcher starts the persistent local PostgreSQL cluster on loopback 54329, the Colyseus service on 2567, and Next.js on 3000. Open http://localhost:3000. The separate commands are `npm run db:dev`, `npm run server`, and `npm run dev:web`. Alternatively start PostgreSQL with `docker compose up -d postgres`; do not start both databases on the same port.
+Use Node.js 24 LTS, npm and Docker Desktop with its engine running. Run `npm ci`, then `npm run dev`. The launcher starts PostgreSQL 17 through Docker Compose on loopback 54329, the Colyseus service on 2567, and Next.js on 3000. Open http://localhost:3000. The separate commands are `npm run db:dev`, `npm run db:migrate`, `npm run server`, and `npm run dev:web`. The Compose database remains running when the launcher stops; `npm run db:stop` stops it without deleting its volume.
 
-`cp .env.example .env` is optional for the default local setup. Replace its placeholder SESSION_SECRET for production. Keep `.env` files out of source control. Local database files and test records live under `.local/`; integration tests retain uniquely named records without deleting user data.
+Use `.env.local` for development configuration. Backend scripts load the same environment files and precedence as Next.js, with exported process variables taking priority. Keep environment files out of source control. Docker data lives in the persistent `blackmarket_pg` Compose volume. The former embedded cluster in `.local/postgres` is preserved separately and must be logically migrated before switching if its data is needed; see [local Docker setup](LOCAL-DOCKER.md). Integration tests retain uniquely named records without deleting user data.
+
+Public deployment will use Neon PostgreSQL by setting the deployment's `DATABASE_URL` to its provider-issued TLS connection string. No Neon project, public deployment or external infrastructure is provisioned by local setup.
 
 ## Environment variables
 

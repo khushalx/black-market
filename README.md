@@ -4,16 +4,16 @@ A multiplayer auction game about real objects and fictional US dollars. Buy belo
 
 ## Run locally
 
-Requires Node.js 22.13+ and npm:
+Requires Node.js 22.13+, npm and a running Docker Desktop engine:
 
 ```sh
 npm install
 npm run dev
 ```
 
-Open **http://localhost:3000**. The launcher starts persistent local PostgreSQL on `127.0.0.1:54329`, the Colyseus/API server on `2567`, and Next.js on `3000`. Database files live in ignored `.local/postgres`; startup initializes the schema. No Docker account or external service is required for local play.
+Open **http://localhost:3000**. The launcher starts PostgreSQL 17 through Docker Compose on `127.0.0.1:54329`, the Colyseus/API server on `2567`, and Next.js on `3000`. PostgreSQL uses the persistent `blackmarket_pg` Compose volume; startup initializes the schema. The database stays running after the web/backend launcher exits. Use `npm run db:stop` to stop it without removing data.
 
-Alternatively, run `docker compose up -d postgres`, then `npm run server` and `npm run dev:web` in separate terminals. Do not run two database runtimes on the same port. Set `DATABASE_URL` for your own PostgreSQL instance. The example environment file documents settings; it is optional for default local development.
+For separate terminals, run `npm run db:dev`, `npm run db:migrate`, `npm run server` and `npm run dev:web`. Backend scripts and Next.js load `.env.local` with the same precedence; exported variables take priority. Set `DATABASE_URL` for another PostgreSQL instance (Neon for public deployment). See [Docker setup and existing-data transition](docs/LOCAL-DOCKER.md) before replacing a previous embedded database. Do not run both database runtimes on port 54329.
 
 For two independent identities on this computer, use `localhost:3000` and `127.0.0.1:3000`, or separate browser profiles. Ordinary tabs on the same hostname share an identity. LAN play needs the exact frontend origins in `APP_ORIGIN`, a reachable `NEXT_PUBLIC_WS_URL`, and the frontend hostname in Next's `allowedDevOrigins`. Restart after configuration changes.
 

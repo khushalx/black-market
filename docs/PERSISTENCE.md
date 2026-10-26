@@ -4,14 +4,14 @@ The game uses PostgreSQL through Drizzle's node-postgres driver. `server/schema.
 
 ## Local database
 
-Choose one database runtime:
+Docker Compose is the standard local database runtime:
 
-- `npm run db:dev` starts the installed embedded PostgreSQL binary on loopback port 54329, keeps its cluster in `.local/postgres`, and stops gracefully with Ctrl+C. It does not create operating-system users. The directory must be ignored by Git.
-- `docker compose up -d postgres` starts the optional PostgreSQL 17 container, with the same connection URL and a persistent named volume. Do not run both on the same port.
+- `npm run db:dev` starts PostgreSQL 17 through `docker compose up -d --wait postgres`. The persistent named volume survives service restarts. `npm run db:stop` stops the container without removing data.
+- `npm run db:embedded` retains the previous embedded runtime for explicit maintenance or isolated tests. Its cluster is in ignored `.local/postgres`; it is never started as a fallback by `npm run dev`. Do not run both on the same port. See [transition instructions](LOCAL-DOCKER.md) to preserve existing embedded data.
 
-For an isolated database verification cluster, set `LOCAL_DB_PORT` and `LOCAL_DB_DIRECTORY` when starting `db:dev`, and point `DATABASE_URL` at that port when running tests. Startup verifies an authenticated SQL query as well as the package's log readiness signal. An already running compatible instance is reused without taking ownership of its shutdown.
+For an isolated embedded verification cluster, set `LOCAL_DB_PORT` and `LOCAL_DB_DIRECTORY` when starting `db:embedded`, and point `DATABASE_URL` at that port when running tests. Startup verifies an authenticated SQL query as well as the package's log readiness signal. An already running compatible instance is reused without taking ownership of its shutdown.
 
-The development URL is `postgres://blackmarket:blackmarket@127.0.0.1:54329/blackmarket`. Set `DATABASE_URL` for other installations. `npx tsx scripts/db-init.ts` initializes schema explicitly; server startup does the same. Production requires a managed or self-operated PostgreSQL service, strong credentials, TLS as appropriate and backups. The provided development credentials are not suitable for deployment.
+The development URL is `postgres://blackmarket:blackmarket@127.0.0.1:54329/blackmarket`. Set `DATABASE_URL` in `.env.local` for other installations. `npm run db:migrate` loads that configuration and initializes schema explicitly; server startup does the same. Public deployment will use Neon PostgreSQL with provider-issued credentials and TLS. No Neon resource or deployment has been created. The provided development credentials are not suitable for deployment.
 
 ## Identity and recovery
 
