@@ -1,5 +1,5 @@
 import { defineServer, defineRoom, matchMaker } from "@colyseus/core";
-import { WebSocketTransport } from "@colyseus/ws-transport";
+import { MarketWebSocketTransport } from "./transport";
 import express, {
   type Request,
   type Response,
@@ -78,7 +78,7 @@ const endpoint =
     void fn(req, res).catch(next);
   };
 const server = defineServer({
-  transport: new WebSocketTransport({
+  transport: new MarketWebSocketTransport({
     maxPayload: 8192,
     // Give connections through public proxies time to recover from brief stalls.
     pingInterval: 10000,
