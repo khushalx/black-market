@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "atari-2600",
+    "brand": "Atari",
+    "model": "2600",
+    "title": "Atari 2600",
+    "category": "Gaming",
+    "referenceValue": 120,
+    "family": "console"
+  },
+  {
+    "id": "atari-5200",
+    "brand": "Atari",
+    "model": "5200",
+    "title": "Atari 5200",
+    "category": "Gaming",
+    "referenceValue": 170,
+    "family": "console"
+  },
+  {
+    "id": "atari-7800",
+    "brand": "Atari",
+    "model": "7800",
+    "title": "Atari 7800",
+    "category": "Gaming",
+    "referenceValue": 150,
+    "family": "console"
+  },
+  {
+    "id": "atari-jaguar",
+    "brand": "Atari",
+    "model": "Jaguar",
+    "title": "Atari Jaguar",
+    "category": "Gaming",
+    "referenceValue": 400,
+    "family": "console"
+  },
+  {
+    "id": "atari-lynx",
+    "brand": "Atari",
+    "model": "Lynx",
+    "title": "Atari Lynx",
+    "category": "Gaming",
+    "referenceValue": 240,
+    "family": "handheld"
+  },
+  {
+    "id": "atari-lynx-ii",
+    "brand": "Atari",
+    "model": "Lynx II",
+    "title": "Atari Lynx II",
+    "category": "Gaming",
+    "referenceValue": 200,
+    "family": "handheld"
+  },
+  {
+    "id": "atari-pong",
+    "brand": "Atari",
+    "model": "Pong",
+    "title": "Home Pong",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "console"
+  },
+  {
+    "id": "atari-400",
+    "brand": "Atari",
+    "model": "400",
+    "title": "Atari 400",
+    "category": "Computing",
+    "referenceValue": 200,
+    "family": "computer"
+  },
+  {
+    "id": "atari-800",
+    "brand": "Atari",
+    "model": "800",
+    "title": "Atari 800",
+    "category": "Computing",
+    "referenceValue": 350,
+    "family": "computer"
+  },
+  {
+    "id": "atari-st",
+    "brand": "Atari",
+    "model": "ST",
+    "title": "Atari ST",
+    "category": "Computing",
+    "referenceValue": 280,
+    "family": "computer"
+  },
+  {
+    "id": "atari-falcon",
+    "brand": "Atari",
+    "model": "Falcon",
+    "title": "Atari Falcon",
+    "category": "Computing",
+    "referenceValue": 1800,
+    "family": "computer"
+  },
+  {
+    "id": "nintendo-wii",
+    "brand": "Nintendo",
+    "model": "Wii",
+    "title": "Wii",
+    "category": "Gaming",
+    "referenceValue": 85,
+    "family": "console"
+  },
+  {
+    "id": "nintendo-wii-u",
+    "brand": "Nintendo",
+    "model": "Wii U",
+    "title": "Wii U",
+    "category": "Gaming",
+    "referenceValue": 160,
+    "family": "console"
+  },
+  {
+    "id": "nintendo-nintendo-64",
+    "brand": "Nintendo",
+    "model": "Nintendo 64",
+    "title": "Nintendo 64",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "console"
+  },
+  {
+    "id": "nintendo-game-boy-color",
+    "brand": "Nintendo",
+    "model": "Game Boy Color",
+    "title": "Game Boy Color",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-game-boy-advance",
+    "brand": "Nintendo",
+    "model": "Game Boy Advance",
+    "title": "Game Boy Advance",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-game-boy-advance-sp",
+    "brand": "Nintendo",
+    "model": "Game Boy Advance SP",
+    "title": "Game Boy Advance SP",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-game-boy-micro",
+    "brand": "Nintendo",
+    "model": "Game Boy Micro",
+    "title": "Game Boy Micro",
+    "category": "Gaming",
+    "referenceValue": 230,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-dsi",
+    "brand": "Nintendo",
+    "model": "DSi",
+    "title": "Nintendo DSi",
+    "category": "Gaming",
+    "referenceValue": 80,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-2ds",
+    "brand": "Nintendo",
+    "model": "2DS",
+    "title": "Nintendo 2DS",
+    "category": "Gaming",
+    "referenceValue": 120,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-new-nintendo-3ds",
+    "brand": "Nintendo",
+    "model": "New Nintendo 3DS",
+    "title": "New Nintendo 3DS",
+    "category": "Gaming",
+    "referenceValue": 240,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-virtual-boy",
+    "brand": "Nintendo",
+    "model": "Virtual Boy",
+    "title": "Virtual Boy",
+    "category": "Gaming",
+    "referenceValue": 500,
+    "family": "console"
+  },
+  {
+    "id": "nintendo-game-watch",
+    "brand": "Nintendo",
+    "model": "Game & Watch",
+    "title": "Game & Watch",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-switch-lite",
+    "brand": "Nintendo",
+    "model": "Switch Lite",
+    "title": "Nintendo Switch Lite",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "family": "handheld"
+  },
+  {
+    "id": "nintendo-color-tv-game",
+    "brand": "Nintendo",
+    "model": "Color TV-Game",
+    "title": "Color TV-Game",
+    "category": "Gaming",
+    "referenceValue": 180,
+    "family": "console"
+  },
+  {
+    "id": "sony-playstation",
+    "brand": "Sony",
+    "model": "PlayStation",
+    "title": "PlayStation (console)",
+    "category": "Gaming",
+    "referenceValue": 95,
+    "family": "console"
+  },
+  {
+    "id": "sony-playstation-2",
+    "brand": "Sony",
+    "model": "PlayStation 2",
+    "title": "PlayStation 2",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "family": "console"
+  },
+  {
+    "id": "sony-playstation-3",
+    "brand": "Sony",
+    "model": "PlayStation 3",
+    "title": "PlayStation 3",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "family": "console"
+  },
+  {
+    "id": "sony-playstation-4",
+    "brand": "Sony",
+    "model": "PlayStation 4",
+    "title": "PlayStation 4",
+    "category": "Gaming",
+    "referenceValue": 180,
+    "family": "console"
+  },
+  {
+    "id": "sony-playstation-vita",
+    "brand": "Sony",
+    "model": "PlayStation Vita",
+    "title": "PlayStation Vita",
+    "category": "Gaming",
+    "referenceValue": 200,
+    "family": "handheld"
+  },
+  {
+    "id": "sony-pocketstation",
+    "brand": "Sony",
+    "model": "PocketStation",
+    "title": "PocketStation",
+    "category": "Gaming",
+    "referenceValue": 75,
+    "family": "handheld"
+  },
+  {
+    "id": "sony-ps-one",
+    "brand": "Sony",
+    "model": "PS one",
+    "title": "PS one",
+    "category": "Gaming",
+    "referenceValue": 95,
+    "family": "console"
+  },
+  {
+    "id": "sony-psp-go",
+    "brand": "Sony",
+    "model": "PSP Go",
+    "title": "PSP Go",
+    "category": "Gaming",
+    "referenceValue": 170,
+    "family": "handheld"
+  },
+  {
+    "id": "sega-dreamcast",
+    "brand": "Sega",
+    "model": "Dreamcast",
+    "title": "Dreamcast",
+    "category": "Gaming",
+    "referenceValue": 160,
+    "family": "console"
+  },
+  {
+    "id": "sega-saturn",
+    "brand": "Sega",
+    "model": "Saturn",
+    "title": "Sega Saturn",
+    "category": "Gaming",
+    "referenceValue": 180,
+    "family": "console"
+  },
+  {
+    "id": "sega-master-system",
+    "brand": "Sega",
+    "model": "Master System",
+    "title": "Master System",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "family": "console"
+  },
+  {
+    "id": "sega-game-gear",
+    "brand": "Sega",
+    "model": "Game Gear",
+    "title": "Game Gear",
+    "category": "Gaming",
+    "referenceValue": 120,
+    "family": "handheld"
+  },
+  {
+    "id": "sega-nomad",
+    "brand": "Sega",
+    "model": "Nomad",
+    "title": "Sega Nomad",
+    "category": "Gaming",
+    "referenceValue": 500,
+    "family": "handheld"
+  },
+  {
+    "id": "sega-cd",
+    "brand": "Sega",
+    "model": "CD",
+    "title": "Sega CD",
+    "category": "Gaming",
+    "referenceValue": 280,
+    "family": "console"
+  },
+  {
+    "id": "sega-32x",
+    "brand": "Sega",
+    "model": "32X",
+    "title": "32X",
+    "category": "Gaming",
+    "referenceValue": 170,
+    "family": "console"
+  },
+  {
+    "id": "sega-sg-1000",
+    "brand": "Sega",
+    "model": "SG-1000",
+    "title": "SG-1000",
+    "category": "Gaming",
+    "referenceValue": 300,
+    "family": "console"
+  },
+  {
+    "id": "nec-turbografx-16",
+    "brand": "NEC",
+    "model": "TurboGrafx-16",
+    "title": "TurboGrafx-16",
+    "category": "Gaming",
+    "referenceValue": 300,
+    "family": "console"
+  },
+  {
+    "id": "nec-pc-fx",
+    "brand": "NEC",
+    "model": "PC-FX",
+    "title": "PC-FX",
+    "category": "Gaming",
+    "referenceValue": 300,
+    "family": "console"
+  },
+  {
+    "id": "snk-neo-geo-aes",
+    "brand": "SNK",
+    "model": "Neo Geo AES",
+    "title": "Neo Geo (system)",
+    "category": "Gaming",
+    "referenceValue": 900,
+    "family": "console"
+  },
+  {
+    "id": "snk-neo-geo-cd",
+    "brand": "SNK",
+    "model": "Neo Geo CD",
+    "title": "Neo Geo CD",
+    "category": "Gaming",
+    "referenceValue": 350,
+    "family": "console"
+  },
+  {
+    "id": "snk-neo-geo-pocket-color",
+    "brand": "SNK",
+    "model": "Neo Geo Pocket Color",
+    "title": "Neo Geo Pocket Color",
+    "category": "Gaming",
+    "referenceValue": 180,
+    "family": "handheld"
+  },
+  {
+    "id": "bandai-wonderswan",
+    "brand": "Bandai",
+    "model": "WonderSwan",
+    "title": "WonderSwan",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "family": "handheld"
+  },
+  {
+    "id": "bandai-wonderswan-color",
+    "brand": "Bandai",
+    "model": "WonderSwan Color",
+    "title": "WonderSwan Color",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "family": "handheld"
+  },
+  {
+    "id": "nokia-n-gage",
+    "brand": "Nokia",
+    "model": "N-Gage",
+    "title": "N-Gage",
+    "category": "Gaming",
+    "referenceValue": 120,
+    "family": "handheld"
+  },
+  {
+    "id": "mattel-intellivision",
+    "brand": "Mattel",
+    "model": "Intellivision",
+    "title": "Intellivision",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "console"
+  },
+  {
+    "id": "coleco-colecovision",
+    "brand": "Coleco",
+    "model": "ColecoVision",
+    "title": "ColecoVision",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "console"
+  },
+  {
+    "id": "magnavox-odyssey",
+    "brand": "Magnavox",
+    "model": "Odyssey",
+    "title": "Magnavox Odyssey",
+    "category": "Gaming",
+    "referenceValue": 500,
+    "family": "console"
+  },
+  {
+    "id": "magnavox-odyssey-2",
+    "brand": "Magnavox",
+    "model": "Odyssey 2",
+    "title": "Magnavox Odyssey 2",
+    "category": "Gaming",
+    "referenceValue": 110,
+    "family": "console"
+  },
+  {
+    "id": "milton-bradley-vectrex",
+    "brand": "Milton Bradley",
+    "model": "Vectrex",
+    "title": "Vectrex",
+    "category": "Gaming",
+    "referenceValue": 650,
+    "family": "console"
+  },
+  {
+    "id": "fairchild-channel-f",
+    "brand": "Fairchild",
+    "model": "Channel F",
+    "title": "Fairchild Channel F",
+    "category": "Gaming",
+    "referenceValue": 280,
+    "family": "console"
+  },
+  {
+    "id": "panasonic-3do",
+    "brand": "Panasonic",
+    "model": "3DO",
+    "title": "3DO Interactive Multiplayer",
+    "category": "Gaming",
+    "referenceValue": 260,
+    "family": "console"
+  },
+  {
+    "id": "microsoft-xbox",
+    "brand": "Microsoft",
+    "model": "Xbox",
+    "title": "Xbox (console)",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "family": "console"
+  },
+  {
+    "id": "microsoft-xbox-one",
+    "brand": "Microsoft",
+    "model": "Xbox One",
+    "title": "Xbox One",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "family": "console"
+  },
+  {
+    "id": "commodore-vic-20",
+    "brand": "Commodore",
+    "model": "VIC-20",
+    "title": "VIC-20",
+    "category": "Computing",
+    "referenceValue": 180,
+    "family": "computer"
+  },
+  {
+    "id": "commodore-128",
+    "brand": "Commodore",
+    "model": "128",
+    "title": "Commodore 128",
+    "category": "Computing",
+    "referenceValue": 270,
+    "family": "computer"
+  },
+  {
+    "id": "commodore-amiga-500",
+    "brand": "Commodore",
+    "model": "Amiga 500",
+    "title": "Amiga 500",
+    "category": "Computing",
+    "referenceValue": 400,
+    "family": "computer"
+  },
+  {
+    "id": "commodore-amiga-1200",
+    "brand": "Commodore",
+    "model": "Amiga 1200",
+    "title": "Amiga 1200",
+    "category": "Computing",
+    "referenceValue": 650,
+    "family": "computer"
+  },
+  {
+    "id": "commodore-pet",
+    "brand": "Commodore",
+    "model": "PET",
+    "title": "Commodore PET",
+    "category": "Computing",
+    "referenceValue": 1100,
+    "family": "computer"
+  },
+  {
+    "id": "sinclair-zx-spectrum",
+    "brand": "Sinclair",
+    "model": "ZX Spectrum",
+    "title": "ZX Spectrum",
+    "category": "Computing",
+    "referenceValue": 180,
+    "family": "computer"
+  },
+  {
+    "id": "sinclair-zx81",
+    "brand": "Sinclair",
+    "model": "ZX81",
+    "title": "ZX81",
+    "category": "Computing",
+    "referenceValue": 120,
+    "family": "computer"
+  },
+  {
+    "id": "sinclair-ql",
+    "brand": "Sinclair",
+    "model": "QL",
+    "title": "Sinclair QL",
+    "category": "Computing",
+    "referenceValue": 350,
+    "family": "computer"
+  },
+  {
+    "id": "amstrad-cpc-464",
+    "brand": "Amstrad",
+    "model": "CPC 464",
+    "title": "Amstrad CPC",
+    "category": "Computing",
+    "referenceValue": 250,
+    "family": "computer"
+  },
+  {
+    "id": "acorn-bbc-micro",
+    "brand": "Acorn",
+    "model": "BBC Micro",
+    "title": "BBC Micro",
+    "category": "Computing",
+    "referenceValue": 320,
+    "family": "computer"
+  },
+  {
+    "id": "acorn-electron",
+    "brand": "Acorn",
+    "model": "Electron",
+    "title": "Acorn Electron",
+    "category": "Computing",
+    "referenceValue": 140,
+    "family": "computer"
+  },
+  {
+    "id": "apple-apple-ii",
+    "brand": "Apple",
+    "model": "Apple II",
+    "title": "Apple II",
+    "category": "Computing",
+    "referenceValue": 650,
+    "family": "computer"
+  },
+  {
+    "id": "apple-apple-iic",
+    "brand": "Apple",
+    "model": "Apple IIc",
+    "title": "Apple IIc",
+    "category": "Computing",
+    "referenceValue": 450,
+    "family": "computer"
+  },
+  {
+    "id": "apple-apple-iie",
+    "brand": "Apple",
+    "model": "Apple IIe",
+    "title": "Apple IIe",
+    "category": "Computing",
+    "referenceValue": 500,
+    "family": "computer"
+  },
+  {
+    "id": "apple-macintosh-se",
+    "brand": "Apple",
+    "model": "Macintosh SE",
+    "title": "Macintosh SE",
+    "category": "Computing",
+    "referenceValue": 420,
+    "family": "computer"
+  },
+  {
+    "id": "apple-macintosh-plus",
+    "brand": "Apple",
+    "model": "Macintosh Plus",
+    "title": "Macintosh Plus",
+    "category": "Computing",
+    "referenceValue": 380,
+    "family": "computer"
+  },
+  {
+    "id": "apple-imac-g3",
+    "brand": "Apple",
+    "model": "iMac G3",
+    "title": "iMac G3",
+    "category": "Computing",
+    "referenceValue": 260,
+    "family": "computer"
+  },
+  {
+    "id": "apple-ibook-g3",
+    "brand": "Apple",
+    "model": "iBook G3",
+    "title": "iBook",
+    "category": "Computing",
+    "referenceValue": 300,
+    "family": "computer"
+  },
+  {
+    "id": "apple-powerbook-100",
+    "brand": "Apple",
+    "model": "PowerBook 100",
+    "title": "PowerBook 100",
+    "category": "Computing",
+    "referenceValue": 300,
+    "family": "computer"
+  },
+  {
+    "id": "apple-macintosh-color-classic",
+    "brand": "Apple",
+    "model": "Macintosh Color Classic",
+    "title": "Macintosh Color Classic",
+    "category": "Computing",
+    "referenceValue": 900,
+    "family": "computer"
+  },
+  {
+    "id": "apple-newton-messagepad",
+    "brand": "Apple",
+    "model": "Newton MessagePad",
+    "title": "MessagePad",
+    "category": "Computing",
+    "referenceValue": 250,
+    "family": "handheld-computer"
+  },
+  {
+    "id": "tandy-trs-80-model-100",
+    "brand": "Tandy",
+    "model": "TRS-80 Model 100",
+    "title": "TRS-80 Model 100",
+    "category": "Computing",
+    "referenceValue": 200,
+    "family": "computer"
+  },
+  {
+    "id": "radio-shack-trs-80",
+    "brand": "Radio Shack",
+    "model": "TRS-80",
+    "title": "TRS-80",
+    "category": "Computing",
+    "referenceValue": 350,
+    "family": "computer"
+  },
+  {
+    "id": "ibm-pc-5150",
+    "brand": "IBM",
+    "model": "PC 5150",
+    "title": "IBM Personal Computer",
+    "category": "Computing",
+    "referenceValue": 800,
+    "family": "computer"
+  },
+  {
+    "id": "ibm-thinkpad-701",
+    "brand": "IBM",
+    "model": "ThinkPad 701",
+    "title": "IBM ThinkPad 701",
+    "category": "Computing",
+    "referenceValue": 650,
+    "family": "computer"
+  },
+  {
+    "id": "ibm-model-m",
+    "brand": "IBM",
+    "model": "Model M",
+    "title": "Model M keyboard",
+    "category": "Computing",
+    "referenceValue": 180,
+    "family": "keyboard"
+  },
+  {
+    "id": "texas-instruments-ti-99-4a",
+    "brand": "Texas Instruments",
+    "model": "TI-99/4A",
+    "title": "TI-99/4A",
+    "category": "Computing",
+    "referenceValue": 160,
+    "family": "computer"
+  },
+  {
+    "id": "texas-instruments-ti-83-plus",
+    "brand": "Texas Instruments",
+    "model": "TI-83 Plus",
+    "title": "TI-83 Plus",
+    "category": "Calculators",
+    "referenceValue": 60,
+    "family": "calculator"
+  },
+  {
+    "id": "texas-instruments-ti-84-plus",
+    "brand": "Texas Instruments",
+    "model": "TI-84 Plus",
+    "title": "TI-84 Plus",
+    "category": "Calculators",
+    "referenceValue": 80,
+    "family": "calculator"
+  },
+  {
+    "id": "texas-instruments-ti-89",
+    "brand": "Texas Instruments",
+    "model": "TI-89",
+    "title": "TI-89 series",
+    "category": "Calculators",
+    "referenceValue": 80,
+    "family": "calculator"
+  },
+  {
+    "id": "hewlett-packard-hp-12c",
+    "brand": "Hewlett-Packard",
+    "model": "HP-12C",
+    "title": "HP-12C",
+    "category": "Calculators",
+    "referenceValue": 90,
+    "family": "calculator"
+  },
+  {
+    "id": "hewlett-packard-hp-15c",
+    "brand": "Hewlett-Packard",
+    "model": "HP-15C",
+    "title": "HP-15C",
+    "category": "Calculators",
+    "referenceValue": 180,
+    "family": "calculator"
+  },
+  {
+    "id": "hewlett-packard-hp-35",
+    "brand": "Hewlett-Packard",
+    "model": "HP-35",
+    "title": "HP-35",
+    "category": "Calculators",
+    "referenceValue": 240,
+    "family": "calculator"
+  },
+  {
+    "id": "hewlett-packard-hp-41c",
+    "brand": "Hewlett-Packard",
+    "model": "HP-41C",
+    "title": "HP-41C",
+    "category": "Calculators",
+    "referenceValue": 220,
+    "family": "calculator"
+  },
+  {
+    "id": "hewlett-packard-hp-48",
+    "brand": "Hewlett-Packard",
+    "model": "HP-48",
+    "title": "HP 48 series",
+    "category": "Calculators",
+    "referenceValue": 120,
+    "family": "calculator"
+  },
+  {
+    "id": "casio-fx-7000g",
+    "brand": "Casio",
+    "model": "fx-7000G",
+    "title": "Casio fx-7000G",
+    "category": "Calculators",
+    "referenceValue": 85,
+    "family": "calculator"
+  },
+  {
+    "id": "casio-vl-1",
+    "brand": "Casio",
+    "model": "VL-1",
+    "title": "Casio VL-1",
+    "category": "Music",
+    "referenceValue": 110,
+    "family": "synth"
+  },
+  {
+    "id": "casio-sk-1",
+    "brand": "Casio",
+    "model": "SK-1",
+    "title": "Casio SK-1",
+    "category": "Music",
+    "referenceValue": 180,
+    "family": "synth"
+  },
+  {
+    "id": "roland-tr-808",
+    "brand": "Roland",
+    "model": "TR-808",
+    "title": "Roland TR-808",
+    "category": "Music",
+    "referenceValue": 5000,
+    "family": "synth"
+  },
+  {
+    "id": "roland-tr-909",
+    "brand": "Roland",
+    "model": "TR-909",
+    "title": "Roland TR-909",
+    "category": "Music",
+    "referenceValue": 4200,
+    "family": "synth"
+  },
+  {
+    "id": "roland-tb-303",
+    "brand": "Roland",
+    "model": "TB-303",
+    "title": "Roland TB-303",
+    "category": "Music",
+    "referenceValue": 2800,
+    "family": "synth"
+  },
+  {
+    "id": "roland-juno-106",
+    "brand": "Roland",
+    "model": "Juno-106",
+    "title": "Roland Juno-106",
+    "category": "Music",
+    "referenceValue": 1800,
+    "family": "synth"
+  },
+  {
+    "id": "roland-d-50",
+    "brand": "Roland",
+    "model": "D-50",
+    "title": "Roland D-50",
+    "category": "Music",
+    "referenceValue": 600,
+    "family": "synth"
+  },
+  {
+    "id": "roland-sh-101",
+    "brand": "Roland",
+    "model": "SH-101",
+    "title": "Roland SH-101",
+    "category": "Music",
+    "referenceValue": 1400,
+    "family": "synth"
+  },
+  {
+    "id": "roland-mc-303",
+    "brand": "Roland",
+    "model": "MC-303",
+    "title": "Roland MC-303",
+    "category": "Music",
+    "referenceValue": 280,
+    "family": "synth"
+  },
+  {
+    "id": "yamaha-dx7",
+    "brand": "Yamaha",
+    "model": "DX7",
+    "title": "Yamaha DX7",
+    "category": "Music",
+    "referenceValue": 600,
+    "family": "synth"
+  },
+  {
+    "id": "yamaha-dx100",
+    "brand": "Yamaha",
+    "model": "DX100",
+    "title": "Yamaha DX100",
+    "category": "Music",
+    "referenceValue": 350,
+    "family": "synth"
+  },
+  {
+    "id": "yamaha-cs-80",
+    "brand": "Yamaha",
+    "model": "CS-80",
+    "title": "Yamaha CS-80",
+    "category": "Music",
+    "referenceValue": 18000,
+    "family": "synth"
+  },
+  {
+    "id": "korg-ms-20",
+    "brand": "Korg",
+    "model": "MS-20",
+    "title": "Korg MS-20",
+    "category": "Music",
+    "referenceValue": 1000,
+    "family": "synth"
+  },
+  {
+    "id": "korg-m1",
+    "brand": "Korg",
+    "model": "M1",
+    "title": "Korg M1",
+    "category": "Music",
+    "referenceValue": 500,
+    "family": "synth"
+  },
+  {
+    "id": "korg-polysix",
+    "brand": "Korg",
+    "model": "Polysix",
+    "title": "Korg Polysix",
+    "category": "Music",
+    "referenceValue": 1600,
+    "family": "synth"
+  },
+  {
+    "id": "korg-volca-beats",
+    "brand": "Korg",
+    "model": "Volca Beats",
+    "title": "Korg Volca",
+    "category": "Music",
+    "referenceValue": 110,
+    "family": "synth"
+  },
+  {
+    "id": "moog-minimoog",
+    "brand": "Moog",
+    "model": "Minimoog",
+    "title": "Minimoog",
+    "category": "Music",
+    "referenceValue": 3500,
+    "family": "synth"
+  },
+  {
+    "id": "teenage-engineering-op-1",
+    "brand": "Teenage Engineering",
+    "model": "OP-1",
+    "title": "OP-1",
+    "category": "Music",
+    "referenceValue": 850,
+    "family": "synth"
+  },
+  {
+    "id": "akai-mpc60",
+    "brand": "Akai",
+    "model": "MPC60",
+    "title": "Akai MPC60",
+    "category": "Music",
+    "referenceValue": 1700,
+    "family": "synth"
+  },
+  {
+    "id": "akai-mpc2000",
+    "brand": "Akai",
+    "model": "MPC2000",
+    "title": "Akai MPC2000",
+    "category": "Music",
+    "referenceValue": 700,
+    "family": "synth"
+  },
+  {
+    "id": "boss-ce-1",
+    "brand": "Boss",
+    "model": "CE-1",
+    "title": "Boss CE-1",
+    "category": "Music",
+    "referenceValue": 600,
+    "family": "pedal"
+  },
+  {
+    "id": "ibanez-tube-screamer",
+    "brand": "Ibanez",
+    "model": "Tube Screamer",
+    "title": "Ibanez Tube Screamer",
+    "category": "Music",
+    "referenceValue": 140,
+    "family": "pedal"
+  },
+  {
+    "id": "electro-harmonix-big-muff",
+    "brand": "Electro-Harmonix",
+    "model": "Big Muff",
+    "title": "Big Muff",
+    "category": "Music",
+    "referenceValue": 110,
+    "family": "pedal"
+  },
+  {
+    "id": "dunlop-cry-baby",
+    "brand": "Dunlop",
+    "model": "Cry Baby",
+    "title": "Dunlop Cry Baby",
+    "category": "Music",
+    "referenceValue": 80,
+    "family": "pedal"
+  },
+  {
+    "id": "fender-stratocaster",
+    "brand": "Fender",
+    "model": "Stratocaster",
+    "title": "Fender Stratocaster",
+    "category": "Music",
+    "referenceValue": 900,
+    "family": "guitar"
+  },
+  {
+    "id": "fender-telecaster",
+    "brand": "Fender",
+    "model": "Telecaster",
+    "title": "Fender Telecaster",
+    "category": "Music",
+    "referenceValue": 850,
+    "family": "guitar"
+  },
+  {
+    "id": "fender-jazzmaster",
+    "brand": "Fender",
+    "model": "Jazzmaster",
+    "title": "Fender Jazzmaster",
+    "category": "Music",
+    "referenceValue": 1000,
+    "family": "guitar"
+  },
+  {
+    "id": "fender-mustang",
+    "brand": "Fender",
+    "model": "Mustang",
+    "title": "Fender Mustang",
+    "category": "Music",
+    "referenceValue": 700,
+    "family": "guitar"
+  },
+  {
+    "id": "gibson-les-paul",
+    "brand": "Gibson",
+    "model": "Les Paul",
+    "title": "Gibson Les Paul",
+    "category": "Music",
+    "referenceValue": 1600,
+    "family": "guitar"
+  },
+  {
+    "id": "gibson-sg",
+    "brand": "Gibson",
+    "model": "SG",
+    "title": "Gibson SG",
+    "category": "Music",
+    "referenceValue": 1200,
+    "family": "guitar"
+  },
+  {
+    "id": "gibson-es-335",
+    "brand": "Gibson",
+    "model": "ES-335",
+    "title": "Gibson ES-335",
+    "category": "Music",
+    "referenceValue": 2400,
+    "family": "guitar"
+  },
+  {
+    "id": "rickenbacker-330",
+    "brand": "Rickenbacker",
+    "model": "330",
+    "title": "Rickenbacker 330",
+    "category": "Music",
+    "referenceValue": 1800,
+    "family": "guitar"
+  },
+  {
+    "id": "gretsch-white-falcon",
+    "brand": "Gretsch",
+    "model": "White Falcon",
+    "title": "Gretsch White Falcon",
+    "category": "Music",
+    "referenceValue": 2300,
+    "family": "guitar"
+  },
+  {
+    "id": "leica-m3",
+    "brand": "Leica",
+    "model": "M3",
+    "title": "Leica M3",
+    "category": "Photography",
+    "referenceValue": 1500,
+    "family": "film-camera"
+  },
+  {
+    "id": "leica-m6",
+    "brand": "Leica",
+    "model": "M6",
+    "title": "Leica M6",
+    "category": "Photography",
+    "referenceValue": 2400,
+    "family": "film-camera"
+  },
+  {
+    "id": "leica-m4",
+    "brand": "Leica",
+    "model": "M4",
+    "title": "Leica M4",
+    "category": "Photography",
+    "referenceValue": 1800,
+    "family": "film-camera"
+  },
+  {
+    "id": "leica-iiif",
+    "brand": "Leica",
+    "model": "IIIf",
+    "title": "Leica IIIf",
+    "category": "Photography",
+    "referenceValue": 600,
+    "family": "film-camera"
+  },
+  {
+    "id": "leica-q",
+    "brand": "Leica",
+    "model": "Q",
+    "title": "Leica Q",
+    "category": "Photography",
+    "referenceValue": 2200,
+    "family": "digital-camera"
+  },
+  {
+    "id": "hasselblad-500-c-m",
+    "brand": "Hasselblad",
+    "model": "500 C/M",
+    "title": "Hasselblad 500 C/M",
+    "category": "Photography",
+    "referenceValue": 1800,
+    "family": "film-camera"
+  },
+  {
+    "id": "mamiya-rb67",
+    "brand": "Mamiya",
+    "model": "RB67",
+    "title": "Mamiya RB67",
+    "category": "Photography",
+    "referenceValue": 900,
+    "family": "film-camera"
+  },
+  {
+    "id": "mamiya-rz67",
+    "brand": "Mamiya",
+    "model": "RZ67",
+    "title": "Mamiya RZ67",
+    "category": "Photography",
+    "referenceValue": 1400,
+    "family": "film-camera"
+  },
+  {
+    "id": "mamiya-645",
+    "brand": "Mamiya",
+    "model": "645",
+    "title": "Mamiya 645",
+    "category": "Photography",
+    "referenceValue": 650,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-k1000",
+    "brand": "Pentax",
+    "model": "K1000",
+    "title": "Pentax K1000",
+    "category": "Photography",
+    "referenceValue": 180,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-spotmatic",
+    "brand": "Pentax",
+    "model": "Spotmatic",
+    "title": "Pentax Spotmatic",
+    "category": "Photography",
+    "referenceValue": 130,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-6-7",
+    "brand": "Pentax",
+    "model": "6×7",
+    "title": "Pentax 6×7",
+    "category": "Photography",
+    "referenceValue": 800,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-me-super",
+    "brand": "Pentax",
+    "model": "ME Super",
+    "title": "Pentax ME Super",
+    "category": "Photography",
+    "referenceValue": 160,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-mx",
+    "brand": "Pentax",
+    "model": "MX",
+    "title": "Pentax MX",
+    "category": "Photography",
+    "referenceValue": 180,
+    "family": "film-camera"
+  },
+  {
+    "id": "pentax-k-1000",
+    "brand": "Pentax",
+    "model": "K-1000",
+    "title": "Asahi Pentax",
+    "category": "Photography",
+    "referenceValue": 160,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-f",
+    "brand": "Nikon",
+    "model": "F",
+    "title": "Nikon F",
+    "category": "Photography",
+    "referenceValue": 280,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-f2",
+    "brand": "Nikon",
+    "model": "F2",
+    "title": "Nikon F2",
+    "category": "Photography",
+    "referenceValue": 350,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-f3",
+    "brand": "Nikon",
+    "model": "F3",
+    "title": "Nikon F3",
+    "category": "Photography",
+    "referenceValue": 450,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-fm2",
+    "brand": "Nikon",
+    "model": "FM2",
+    "title": "Nikon FM2",
+    "category": "Photography",
+    "referenceValue": 380,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-fe",
+    "brand": "Nikon",
+    "model": "FE",
+    "title": "Nikon FE",
+    "category": "Photography",
+    "referenceValue": 180,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-f100",
+    "brand": "Nikon",
+    "model": "F100",
+    "title": "Nikon F100",
+    "category": "Photography",
+    "referenceValue": 250,
+    "family": "film-camera"
+  },
+  {
+    "id": "nikon-d90",
+    "brand": "Nikon",
+    "model": "D90",
+    "title": "Nikon D90",
+    "category": "Photography",
+    "referenceValue": 160,
+    "family": "digital-camera"
+  },
+  {
+    "id": "nikon-d300",
+    "brand": "Nikon",
+    "model": "D300",
+    "title": "Nikon D300",
+    "category": "Photography",
+    "referenceValue": 180,
+    "family": "digital-camera"
+  },
+  {
+    "id": "nikon-d700",
+    "brand": "Nikon",
+    "model": "D700",
+    "title": "Nikon D700",
+    "category": "Photography",
+    "referenceValue": 350,
+    "family": "digital-camera"
+  },
+  {
+    "id": "nikon-d750",
+    "brand": "Nikon",
+    "model": "D750",
+    "title": "Nikon D750",
+    "category": "Photography",
+    "referenceValue": 600,
+    "family": "digital-camera"
+  },
+  {
+    "id": "nikon-d3",
+    "brand": "Nikon",
+    "model": "D3",
+    "title": "Nikon D3",
+    "category": "Photography",
+    "referenceValue": 500,
+    "family": "digital-camera"
+  },
+  {
+    "id": "nikon-coolpix-990",
+    "brand": "Nikon",
+    "model": "Coolpix 990",
+    "title": "Nikon Coolpix 990",
+    "category": "Photography",
+    "referenceValue": 90,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-ae-1",
+    "brand": "Canon",
+    "model": "AE-1",
+    "title": "Canon AE-1",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "film-camera"
+  },
+  {
+    "id": "canon-a-1",
+    "brand": "Canon",
+    "model": "A-1",
+    "title": "Canon A-1",
+    "category": "Photography",
+    "referenceValue": 220,
+    "family": "film-camera"
+  },
+  {
+    "id": "canon-f-1",
+    "brand": "Canon",
+    "model": "F-1",
+    "title": "Canon F-1",
+    "category": "Photography",
+    "referenceValue": 350,
+    "family": "film-camera"
+  },
+  {
+    "id": "canon-t90",
+    "brand": "Canon",
+    "model": "T90",
+    "title": "Canon T90",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "film-camera"
+  },
+  {
+    "id": "canon-eos-650",
+    "brand": "Canon",
+    "model": "EOS 650",
+    "title": "Canon EOS 650",
+    "category": "Photography",
+    "referenceValue": 70,
+    "family": "film-camera"
+  },
+  {
+    "id": "canon-eos-40d",
+    "brand": "Canon",
+    "model": "EOS 40D",
+    "title": "Canon EOS 40D",
+    "category": "Photography",
+    "referenceValue": 130,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-eos-50d",
+    "brand": "Canon",
+    "model": "EOS 50D",
+    "title": "Canon EOS 50D",
+    "category": "Photography",
+    "referenceValue": 170,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-eos-60d",
+    "brand": "Canon",
+    "model": "EOS 60D",
+    "title": "Canon EOS 60D",
+    "category": "Photography",
+    "referenceValue": 220,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-eos-7d",
+    "brand": "Canon",
+    "model": "EOS 7D",
+    "title": "Canon EOS 7D",
+    "category": "Photography",
+    "referenceValue": 260,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-eos-6d",
+    "brand": "Canon",
+    "model": "EOS 6D",
+    "title": "Canon EOS 6D",
+    "category": "Photography",
+    "referenceValue": 400,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-eos-5d",
+    "brand": "Canon",
+    "model": "EOS 5D",
+    "title": "Canon EOS 5D",
+    "category": "Photography",
+    "referenceValue": 250,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-powershot-g9",
+    "brand": "Canon",
+    "model": "PowerShot G9",
+    "title": "Canon PowerShot G9",
+    "category": "Photography",
+    "referenceValue": 130,
+    "family": "digital-camera"
+  },
+  {
+    "id": "canon-powershot-g12",
+    "brand": "Canon",
+    "model": "PowerShot G12",
+    "title": "Canon PowerShot G12",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "digital-camera"
+  },
+  {
+    "id": "olympus-om-1",
+    "brand": "Olympus",
+    "model": "OM-1",
+    "title": "Olympus OM-1",
+    "category": "Photography",
+    "referenceValue": 230,
+    "family": "film-camera"
+  },
+  {
+    "id": "olympus-om-2",
+    "brand": "Olympus",
+    "model": "OM-2",
+    "title": "Olympus OM-2",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "film-camera"
+  },
+  {
+    "id": "olympus-trip-35",
+    "brand": "Olympus",
+    "model": "Trip 35",
+    "title": "Olympus Trip 35",
+    "category": "Photography",
+    "referenceValue": 130,
+    "family": "film-camera"
+  },
+  {
+    "id": "olympus-pen-e-p1",
+    "brand": "Olympus",
+    "model": "PEN E-P1",
+    "title": "Olympus PEN E-P1",
+    "category": "Photography",
+    "referenceValue": 150,
+    "family": "digital-camera"
+  },
+  {
+    "id": "olympus-e-pl1",
+    "brand": "Olympus",
+    "model": "E-PL1",
+    "title": "Olympus PEN E-PL1",
+    "category": "Photography",
+    "referenceValue": 110,
+    "family": "digital-camera"
+  },
+  {
+    "id": "olympus-xa",
+    "brand": "Olympus",
+    "model": "XA",
+    "title": "Olympus XA",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "film-camera"
+  },
+  {
+    "id": "fujifilm-x-pro1",
+    "brand": "Fujifilm",
+    "model": "X-Pro1",
+    "title": "Fujifilm X-Pro1",
+    "category": "Photography",
+    "referenceValue": 550,
+    "family": "digital-camera"
+  },
+  {
+    "id": "fujifilm-x-t1",
+    "brand": "Fujifilm",
+    "model": "X-T1",
+    "title": "Fujifilm X-T1",
+    "category": "Photography",
+    "referenceValue": 450,
+    "family": "digital-camera"
+  },
+  {
+    "id": "fujifilm-x-e1",
+    "brand": "Fujifilm",
+    "model": "X-E1",
+    "title": "Fujifilm X-E1",
+    "category": "Photography",
+    "referenceValue": 320,
+    "family": "digital-camera"
+  },
+  {
+    "id": "fujifilm-x10",
+    "brand": "Fujifilm",
+    "model": "X10",
+    "title": "Fujifilm X10",
+    "category": "Photography",
+    "referenceValue": 280,
+    "family": "digital-camera"
+  },
+  {
+    "id": "ricoh-gr-digital",
+    "brand": "Ricoh",
+    "model": "GR Digital",
+    "title": "Ricoh GR Digital",
+    "category": "Photography",
+    "referenceValue": 250,
+    "family": "digital-camera"
+  },
+  {
+    "id": "ricoh-gr-iii",
+    "brand": "Ricoh",
+    "model": "GR III",
+    "title": "Ricoh GR III",
+    "category": "Photography",
+    "referenceValue": 800,
+    "family": "digital-camera"
+  },
+  {
+    "id": "contax-g1",
+    "brand": "Contax",
+    "model": "G1",
+    "title": "Contax G1",
+    "category": "Photography",
+    "referenceValue": 500,
+    "family": "film-camera"
+  },
+  {
+    "id": "contax-g2",
+    "brand": "Contax",
+    "model": "G2",
+    "title": "Contax G2",
+    "category": "Photography",
+    "referenceValue": 1100,
+    "family": "film-camera"
+  },
+  {
+    "id": "yashica-electro-35",
+    "brand": "Yashica",
+    "model": "Electro 35",
+    "title": "Yashica Electro 35",
+    "category": "Photography",
+    "referenceValue": 130,
+    "family": "film-camera"
+  },
+  {
+    "id": "yashica-mat-124",
+    "brand": "Yashica",
+    "model": "Mat-124",
+    "title": "Yashica Mat-124",
+    "category": "Photography",
+    "referenceValue": 350,
+    "family": "film-camera"
+  },
+  {
+    "id": "minolta-srt-101",
+    "brand": "Minolta",
+    "model": "SRT 101",
+    "title": "Minolta SR-T 101",
+    "category": "Photography",
+    "referenceValue": 140,
+    "family": "film-camera"
+  },
+  {
+    "id": "minolta-xd-7",
+    "brand": "Minolta",
+    "model": "XD-7",
+    "title": "Minolta XD-7",
+    "category": "Photography",
+    "referenceValue": 200,
+    "family": "film-camera"
+  },
+  {
+    "id": "minolta-maxxum-7000",
+    "brand": "Minolta",
+    "model": "Maxxum 7000",
+    "title": "Minolta Maxxum 7000",
+    "category": "Photography",
+    "referenceValue": 100,
+    "family": "film-camera"
+  },
+  {
+    "id": "konica-hexar-af",
+    "brand": "Konica",
+    "model": "Hexar AF",
+    "title": "Konica Hexar",
+    "category": "Photography",
+    "referenceValue": 700,
+    "family": "film-camera"
+  },
+  {
+    "id": "polaroid-600",
+    "brand": "Polaroid",
+    "model": "600",
+    "title": "Polaroid 600",
+    "category": "Photography",
+    "referenceValue": 70,
+    "family": "instant-camera"
+  },
+  {
+    "id": "polaroid-spectra",
+    "brand": "Polaroid",
+    "model": "Spectra",
+    "title": "Polaroid Spectra",
+    "category": "Photography",
+    "referenceValue": 90,
+    "family": "instant-camera"
+  },
+  {
+    "id": "kodak-brownie",
+    "brand": "Kodak",
+    "model": "Brownie",
+    "title": "Kodak Brownie",
+    "category": "Photography",
+    "referenceValue": 70,
+    "family": "film-camera"
+  },
+  {
+    "id": "kodak-retina",
+    "brand": "Kodak",
+    "model": "Retina",
+    "title": "Kodak Retina",
+    "category": "Photography",
+    "referenceValue": 140,
+    "family": "film-camera"
+  },
+  {
+    "id": "voigtlander-bessa-r",
+    "brand": "Voigtländer",
+    "model": "Bessa R",
+    "title": "Voigtländer Bessa R",
+    "category": "Photography",
+    "referenceValue": 500,
+    "family": "film-camera"
+  },
+  {
+    "id": "zeiss-ikon-contax-ii",
+    "brand": "Zeiss Ikon",
+    "model": "Contax II",
+    "title": "Contax II",
+    "category": "Photography",
+    "referenceValue": 450,
+    "family": "film-camera"
+  },
+  {
+    "id": "lomo-lc-a",
+    "brand": "Lomo",
+    "model": "LC-A",
+    "title": "Lomo LC-A",
+    "category": "Photography",
+    "referenceValue": 180,
+    "family": "film-camera"
+  },
+  {
+    "id": "zenit-e",
+    "brand": "Zenit",
+    "model": "E",
+    "title": "Zenit-E",
+    "category": "Photography",
+    "referenceValue": 70,
+    "family": "film-camera"
+  },
+  {
+    "id": "gopro-hero3",
+    "brand": "GoPro",
+    "model": "HERO3",
+    "title": "GoPro Hero3",
+    "category": "Photography",
+    "referenceValue": 70,
+    "family": "digital-camera"
+  },
+  {
+    "id": "dji-phantom-3",
+    "brand": "DJI",
+    "model": "Phantom 3",
+    "title": "DJI Phantom 3",
+    "category": "Photography",
+    "referenceValue": 230,
+    "family": "drone"
+  },
+  {
+    "id": "sony-walkman-tps-l2",
+    "brand": "Sony",
+    "model": "Walkman TPS-L2",
+    "title": "Walkman TPS-L2",
+    "category": "Portable audio",
+    "referenceValue": 550,
+    "family": "portable-audio"
+  },
+  {
+    "id": "sony-walkman-wm-d6c",
+    "brand": "Sony",
+    "model": "Walkman WM-D6C",
+    "title": "Sony WM-D6C",
+    "category": "Portable audio",
+    "referenceValue": 800,
+    "family": "portable-audio"
+  },
+  {
+    "id": "sony-discman-d-50",
+    "brand": "Sony",
+    "model": "Discman D-50",
+    "title": "Sony Discman D-50",
+    "category": "Portable audio",
+    "referenceValue": 300,
+    "family": "portable-audio"
+  },
+  {
+    "id": "sony-minidisc-mz-1",
+    "brand": "Sony",
+    "model": "MiniDisc MZ-1",
+    "title": "Sony MZ-1",
+    "category": "Portable audio",
+    "referenceValue": 320,
+    "family": "portable-audio"
+  },
+  {
+    "id": "apple-ipod-classic",
+    "brand": "Apple",
+    "model": "iPod Classic",
+    "title": "iPod Classic",
+    "category": "Portable audio",
+    "referenceValue": 160,
+    "family": "portable-audio"
+  },
+  {
+    "id": "apple-ipod-mini",
+    "brand": "Apple",
+    "model": "iPod Mini",
+    "title": "iPod Mini",
+    "category": "Portable audio",
+    "referenceValue": 80,
+    "family": "portable-audio"
+  },
+  {
+    "id": "apple-ipod-nano",
+    "brand": "Apple",
+    "model": "iPod Nano",
+    "title": "iPod Nano",
+    "category": "Portable audio",
+    "referenceValue": 70,
+    "family": "portable-audio"
+  },
+  {
+    "id": "apple-ipod-shuffle",
+    "brand": "Apple",
+    "model": "iPod Shuffle",
+    "title": "iPod Shuffle",
+    "category": "Portable audio",
+    "referenceValue": 50,
+    "family": "portable-audio"
+  },
+  {
+    "id": "apple-ipod-touch",
+    "brand": "Apple",
+    "model": "iPod Touch",
+    "title": "iPod Touch",
+    "category": "Portable audio",
+    "referenceValue": 80,
+    "family": "portable-audio"
+  },
+  {
+    "id": "microsoft-zune",
+    "brand": "Microsoft",
+    "model": "Zune",
+    "title": "Zune 30",
+    "category": "Portable audio",
+    "referenceValue": 140,
+    "family": "portable-audio"
+  },
+  {
+    "id": "creative-nomad-jukebox",
+    "brand": "Creative",
+    "model": "NOMAD Jukebox",
+    "title": "NOMAD Jukebox",
+    "category": "Portable audio",
+    "referenceValue": 110,
+    "family": "portable-audio"
+  },
+  {
+    "id": "bang-olufsen-beogram-4000",
+    "brand": "Bang & Olufsen",
+    "model": "Beogram 4000",
+    "title": "Beogram 4000",
+    "category": "Audio",
+    "referenceValue": 1600,
+    "family": "turntable"
+  },
+  {
+    "id": "dual-1219",
+    "brand": "Dual",
+    "model": "1219",
+    "title": "Dual 1219",
+    "category": "Audio",
+    "referenceValue": 350,
+    "family": "turntable"
+  },
+  {
+    "id": "thorens-td-160",
+    "brand": "Thorens",
+    "model": "TD 160",
+    "title": "Thorens TD 160",
+    "category": "Audio",
+    "referenceValue": 500,
+    "family": "turntable"
+  },
+  {
+    "id": "technics-sl-10",
+    "brand": "Technics",
+    "model": "SL-10",
+    "title": "Technics SL-10",
+    "category": "Audio",
+    "referenceValue": 400,
+    "family": "turntable"
+  },
+  {
+    "id": "linn-sondek-lp12",
+    "brand": "Linn",
+    "model": "Sondek LP12",
+    "title": "Linn Sondek LP12",
+    "category": "Audio",
+    "referenceValue": 1800,
+    "family": "turntable"
+  },
+  {
+    "id": "rega-planar-3",
+    "brand": "Rega",
+    "model": "Planar 3",
+    "title": "Rega Planar 3",
+    "category": "Audio",
+    "referenceValue": 500,
+    "family": "turntable"
+  },
+  {
+    "id": "sennheiser-hd-600",
+    "brand": "Sennheiser",
+    "model": "HD 600",
+    "title": "Sennheiser HD 600",
+    "category": "Audio",
+    "referenceValue": 220,
+    "family": "headphones"
+  },
+  {
+    "id": "sennheiser-hd-650",
+    "brand": "Sennheiser",
+    "model": "HD 650",
+    "title": "Sennheiser HD 650",
+    "category": "Audio",
+    "referenceValue": 260,
+    "family": "headphones"
+  },
+  {
+    "id": "akg-k240",
+    "brand": "AKG",
+    "model": "K240",
+    "title": "AKG K240",
+    "category": "Audio",
+    "referenceValue": 70,
+    "family": "headphones"
+  },
+  {
+    "id": "koss-porta-pro",
+    "brand": "Koss",
+    "model": "Porta Pro",
+    "title": "Koss Porta Pro",
+    "category": "Audio",
+    "referenceValue": 45,
+    "family": "headphones"
+  },
+  {
+    "id": "shure-sm58",
+    "brand": "Shure",
+    "model": "SM58",
+    "title": "Shure SM58",
+    "category": "Audio",
+    "referenceValue": 75,
+    "family": "microphone"
+  },
+  {
+    "id": "shure-sm57",
+    "brand": "Shure",
+    "model": "SM57",
+    "title": "Shure SM57",
+    "category": "Audio",
+    "referenceValue": 70,
+    "family": "microphone"
+  },
+  {
+    "id": "nokia-3310",
+    "brand": "Nokia",
+    "model": "3310",
+    "title": "Nokia 3310",
+    "category": "Phones",
+    "referenceValue": 50,
+    "family": "phone"
+  },
+  {
+    "id": "nokia-8110",
+    "brand": "Nokia",
+    "model": "8110",
+    "title": "Nokia 8110",
+    "category": "Phones",
+    "referenceValue": 130,
+    "family": "phone"
+  },
+  {
+    "id": "nokia-8800",
+    "brand": "Nokia",
+    "model": "8800",
+    "title": "Nokia 8800",
+    "category": "Phones",
+    "referenceValue": 350,
+    "family": "phone"
+  },
+  {
+    "id": "nokia-9000-communicator",
+    "brand": "Nokia",
+    "model": "9000 Communicator",
+    "title": "Nokia 9000 Communicator",
+    "category": "Phones",
+    "referenceValue": 240,
+    "family": "phone"
+  },
+  {
+    "id": "nokia-n95",
+    "brand": "Nokia",
+    "model": "N95",
+    "title": "Nokia N95",
+    "category": "Phones",
+    "referenceValue": 90,
+    "family": "phone"
+  },
+  {
+    "id": "motorola-dynatac",
+    "brand": "Motorola",
+    "model": "DynaTAC",
+    "title": "Motorola DynaTAC",
+    "category": "Phones",
+    "referenceValue": 1200,
+    "family": "phone"
+  },
+  {
+    "id": "motorola-startac",
+    "brand": "Motorola",
+    "model": "StarTAC",
+    "title": "Motorola StarTAC",
+    "category": "Phones",
+    "referenceValue": 160,
+    "family": "phone"
+  },
+  {
+    "id": "motorola-razr-v3",
+    "brand": "Motorola",
+    "model": "Razr V3",
+    "title": "Motorola Razr V3",
+    "category": "Phones",
+    "referenceValue": 80,
+    "family": "phone"
+  },
+  {
+    "id": "apple-iphone-1st-generation",
+    "brand": "Apple",
+    "model": "iPhone (1st generation)",
+    "title": "IPhone (1st generation)",
+    "category": "Phones",
+    "referenceValue": 350,
+    "family": "phone"
+  },
+  {
+    "id": "blackberry-bold-9000",
+    "brand": "BlackBerry",
+    "model": "Bold 9000",
+    "title": "BlackBerry Bold 9000",
+    "category": "Phones",
+    "referenceValue": 70,
+    "family": "phone"
+  },
+  {
+    "id": "palm-palmpilot",
+    "brand": "Palm",
+    "model": "PalmPilot",
+    "title": "PalmPilot",
+    "category": "Computing",
+    "referenceValue": 90,
+    "family": "handheld-computer"
+  },
+  {
+    "id": "palm-v",
+    "brand": "Palm",
+    "model": "V",
+    "title": "Palm V",
+    "category": "Computing",
+    "referenceValue": 90,
+    "family": "handheld-computer"
+  },
+  {
+    "id": "psion-series-5",
+    "brand": "Psion",
+    "model": "Series 5",
+    "title": "Psion Series 5",
+    "category": "Computing",
+    "referenceValue": 200,
+    "family": "handheld-computer"
+  },
+  {
+    "id": "psion-organiser",
+    "brand": "Psion",
+    "model": "Organiser",
+    "title": "Psion Organiser",
+    "category": "Computing",
+    "referenceValue": 140,
+    "family": "handheld-computer"
+  },
+  {
+    "id": "casio-g-shock-dw-5600",
+    "brand": "Casio",
+    "model": "G-Shock DW-5600",
+    "title": "Casio G-Shock DW-5600",
+    "category": "Watches",
+    "referenceValue": 65,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "casio-g-shock-dw-6900",
+    "brand": "Casio",
+    "model": "G-Shock DW-6900",
+    "title": "Casio DW-6900",
+    "category": "Watches",
+    "referenceValue": 60,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "casio-ca-53w",
+    "brand": "Casio",
+    "model": "CA-53W",
+    "title": "Casio CA-53W",
+    "category": "Watches",
+    "referenceValue": 45,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "casio-f-100",
+    "brand": "Casio",
+    "model": "F-100",
+    "title": "Casio F-100",
+    "category": "Watches",
+    "referenceValue": 140,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "seiko-6139",
+    "brand": "Seiko",
+    "model": "6139",
+    "title": "Seiko 6139",
+    "category": "Watches",
+    "referenceValue": 650,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "seiko-skx013",
+    "brand": "Seiko",
+    "model": "SKX013",
+    "title": "Seiko SKX013",
+    "category": "Watches",
+    "referenceValue": 350,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "omega-speedmaster",
+    "brand": "Omega",
+    "model": "Speedmaster",
+    "title": "Omega Speedmaster",
+    "category": "Watches",
+    "referenceValue": 3500,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "omega-seamaster",
+    "brand": "Omega",
+    "model": "Seamaster",
+    "title": "Omega Seamaster",
+    "category": "Watches",
+    "referenceValue": 2600,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "rolex-submariner",
+    "brand": "Rolex",
+    "model": "Submariner",
+    "title": "Rolex Submariner",
+    "category": "Watches",
+    "referenceValue": 7500,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "rolex-datejust",
+    "brand": "Rolex",
+    "model": "Datejust",
+    "title": "Rolex Datejust",
+    "category": "Watches",
+    "referenceValue": 5000,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "rolex-explorer",
+    "brand": "Rolex",
+    "model": "Explorer",
+    "title": "Rolex Explorer",
+    "category": "Watches",
+    "referenceValue": 5500,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "swatch-sistem51",
+    "brand": "Swatch",
+    "model": "Sistem51",
+    "title": "Swatch Sistem51",
+    "category": "Watches",
+    "referenceValue": 120,
+    "family": "mechanical-watch"
+  },
+  {
+    "id": "hamilton-pulsar",
+    "brand": "Hamilton",
+    "model": "Pulsar",
+    "title": "Pulsar (watch)",
+    "category": "Watches",
+    "referenceValue": 300,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "timex-ironman",
+    "brand": "Timex",
+    "model": "Ironman",
+    "title": "Timex Ironman",
+    "category": "Watches",
+    "referenceValue": 50,
+    "family": "quartz-watch"
+  },
+  {
+    "id": "olivetti-lettera-22",
+    "brand": "Olivetti",
+    "model": "Lettera 22",
+    "title": "Olivetti Lettera 22",
+    "category": "Typewriters",
+    "referenceValue": 260,
+    "family": "typewriter"
+  },
+  {
+    "id": "olivetti-valentine",
+    "brand": "Olivetti",
+    "model": "Valentine",
+    "title": "Olivetti Valentine",
+    "category": "Typewriters",
+    "referenceValue": 500,
+    "family": "typewriter"
+  },
+  {
+    "id": "olivetti-lettera-32",
+    "brand": "Olivetti",
+    "model": "Lettera 32",
+    "title": "Olivetti Lettera 32",
+    "category": "Typewriters",
+    "referenceValue": 240,
+    "family": "typewriter"
+  },
+  {
+    "id": "olivetti-studio-44",
+    "brand": "Olivetti",
+    "model": "Studio 44",
+    "title": "Olivetti Studio 44",
+    "category": "Typewriters",
+    "referenceValue": 190,
+    "family": "typewriter"
+  },
+  {
+    "id": "ibm-selectric",
+    "brand": "IBM",
+    "model": "Selectric",
+    "title": "IBM Selectric",
+    "category": "Typewriters",
+    "referenceValue": 300,
+    "family": "typewriter"
+  },
+  {
+    "id": "hermes-3000",
+    "brand": "Hermes",
+    "model": "3000",
+    "title": "Hermes 3000",
+    "category": "Typewriters",
+    "referenceValue": 650,
+    "family": "typewriter"
+  },
+  {
+    "id": "smith-corona-silent",
+    "brand": "Smith-Corona",
+    "model": "Silent",
+    "title": "Smith Corona Silent",
+    "category": "Typewriters",
+    "referenceValue": 150,
+    "family": "typewriter"
+  },
+  {
+    "id": "remington-portable",
+    "brand": "Remington",
+    "model": "Portable",
+    "title": "Remington Portable",
+    "category": "Typewriters",
+    "referenceValue": 180,
+    "family": "typewriter"
+  },
+  {
+    "id": "parker-51",
+    "brand": "Parker",
+    "model": "51",
+    "title": "Parker 51",
+    "category": "Writing",
+    "referenceValue": 140,
+    "family": "pen"
+  },
+  {
+    "id": "parker-duofold",
+    "brand": "Parker",
+    "model": "Duofold",
+    "title": "Parker Duofold",
+    "category": "Writing",
+    "referenceValue": 200,
+    "family": "pen"
+  },
+  {
+    "id": "parker-vacumatic",
+    "brand": "Parker",
+    "model": "Vacumatic",
+    "title": "Parker Vacumatic",
+    "category": "Writing",
+    "referenceValue": 160,
+    "family": "pen"
+  },
+  {
+    "id": "lamy-2000",
+    "brand": "Lamy",
+    "model": "2000",
+    "title": "Lamy 2000",
+    "category": "Writing",
+    "referenceValue": 160,
+    "family": "pen"
+  },
+  {
+    "id": "montblanc-meisterstuck",
+    "brand": "Montblanc",
+    "model": "Meisterstück",
+    "title": "Montblanc Meisterstück",
+    "category": "Writing",
+    "referenceValue": 350,
+    "family": "pen"
+  },
+  {
+    "id": "pelikan-souveran",
+    "brand": "Pelikan",
+    "model": "Souverän",
+    "title": "Pelikan Souverän",
+    "category": "Writing",
+    "referenceValue": 250,
+    "family": "pen"
+  },
+  {
+    "id": "waterman-carene",
+    "brand": "Waterman",
+    "model": "Carène",
+    "title": "Waterman Carène",
+    "category": "Writing",
+    "referenceValue": 160,
+    "family": "pen"
+  },
+  {
+    "id": "sheaffer-snorkel",
+    "brand": "Sheaffer",
+    "model": "Snorkel",
+    "title": "Sheaffer Snorkel",
+    "category": "Writing",
+    "referenceValue": 140,
+    "family": "pen"
+  },
+  {
+    "id": "fisher-space-pen",
+    "brand": "Fisher",
+    "model": "Space Pen",
+    "title": "Space Pen",
+    "category": "Writing",
+    "referenceValue": 45,
+    "family": "pen"
+  },
+  {
+    "id": "zippo-classic-lighter",
+    "brand": "Zippo",
+    "model": "Classic lighter",
+    "title": "Zippo",
+    "category": "Everyday objects",
+    "referenceValue": 45,
+    "family": "lighter"
+  },
+  {
+    "id": "victorinox-swiss-army-knife",
+    "brand": "Victorinox",
+    "model": "Swiss Army knife",
+    "title": "Swiss Army knife",
+    "category": "Everyday objects",
+    "referenceValue": 60,
+    "family": "tool"
+  },
+  {
+    "id": "leatherman-pst",
+    "brand": "Leatherman",
+    "model": "PST",
+    "title": "Leatherman",
+    "category": "Everyday objects",
+    "referenceValue": 85,
+    "family": "tool"
+  },
+  {
+    "id": "anglepoise-original-1227",
+    "brand": "Anglepoise",
+    "model": "Original 1227",
+    "title": "Anglepoise lamp",
+    "category": "Design",
+    "referenceValue": 160,
+    "family": "lamp"
+  },
+  {
+    "id": "artemide-tolomeo",
+    "brand": "Artemide",
+    "model": "Tolomeo",
+    "title": "Tolomeo desk lamp",
+    "category": "Design",
+    "referenceValue": 180,
+    "family": "lamp"
+  },
+  {
+    "id": "kartell-componibili",
+    "brand": "Kartell",
+    "model": "Componibili",
+    "title": "Componibili",
+    "category": "Design",
+    "referenceValue": 120,
+    "family": "furniture"
+  },
+  {
+    "id": "herman-miller-eames-lounge-chair",
+    "brand": "Herman Miller",
+    "model": "Eames Lounge Chair",
+    "title": "Eames Lounge Chair",
+    "category": "Design",
+    "referenceValue": 3500,
+    "family": "furniture"
+  },
+  {
+    "id": "vitra-panton-chair",
+    "brand": "Vitra",
+    "model": "Panton Chair",
+    "title": "Panton Chair",
+    "category": "Design",
+    "referenceValue": 300,
+    "family": "furniture"
+  },
+  {
+    "id": "knoll-barcelona-chair",
+    "brand": "Knoll",
+    "model": "Barcelona Chair",
+    "title": "Barcelona chair",
+    "category": "Design",
+    "referenceValue": 2800,
+    "family": "furniture"
+  },
+  {
+    "id": "braun-sk4",
+    "brand": "Braun",
+    "model": "SK4",
+    "title": "Braun SK 4",
+    "category": "Audio",
+    "referenceValue": 900,
+    "family": "turntable"
+  },
+  {
+    "id": "braun-t3",
+    "brand": "Braun",
+    "model": "T3",
+    "title": "Braun T3",
+    "category": "Portable audio",
+    "referenceValue": 300,
+    "family": "radio"
+  },
+  {
+    "id": "roberts-r200",
+    "brand": "Roberts",
+    "model": "R200",
+    "title": "Roberts R200",
+    "category": "Portable audio",
+    "referenceValue": 120,
+    "family": "radio"
+  },
+  {
+    "id": "tivoli-model-one",
+    "brand": "Tivoli",
+    "model": "Model One",
+    "title": "Tivoli Audio Model One",
+    "category": "Audio",
+    "referenceValue": 130,
+    "family": "radio"
+  },
+  {
+    "id": "bandai-tamagotchi",
+    "brand": "Bandai",
+    "model": "Tamagotchi",
+    "title": "Tamagotchi",
+    "category": "Toys",
+    "referenceValue": 70,
+    "family": "electronic-toy"
+  },
+  {
+    "id": "tiger-furby",
+    "brand": "Tiger",
+    "model": "Furby",
+    "title": "Furby",
+    "category": "Toys",
+    "referenceValue": 90,
+    "family": "electronic-toy"
+  },
+  {
+    "id": "nintendo-r-o-b",
+    "brand": "Nintendo",
+    "model": "R.O.B.",
+    "title": "R.O.B.",
+    "category": "Toys",
+    "referenceValue": 230,
+    "family": "electronic-toy"
+  },
+  {
+    "id": "tomy-omnibot",
+    "brand": "Tomy",
+    "model": "Omnibot",
+    "title": "Omnibot",
+    "category": "Toys",
+    "referenceValue": 200,
+    "family": "electronic-toy"
+  },
+  {
+    "id": "ideal-rubik-s-cube",
+    "brand": "Ideal",
+    "model": "Rubik's Cube",
+    "title": "Rubik's Cube",
+    "category": "Toys",
+    "referenceValue": 35,
+    "family": "puzzle"
+  },
+  {
+    "id": "milton-bradley-simon",
+    "brand": "Milton Bradley",
+    "model": "Simon",
+    "title": "Simon (game)",
+    "category": "Toys",
+    "referenceValue": 65,
+    "family": "electronic-toy"
+  },
+  {
+    "id": "ohio-art-etch-a-sketch",
+    "brand": "Ohio Art",
+    "model": "Etch A Sketch",
+    "title": "Etch A Sketch",
+    "category": "Toys",
+    "referenceValue": 45,
+    "family": "toy"
+  },
+  {
+    "id": "view-master-model-g",
+    "brand": "View-Master",
+    "model": "Model G",
+    "title": "View-Master",
+    "category": "Toys",
+    "referenceValue": 50,
+    "family": "toy"
+  },
+  {
+    "id": "lego-mindstorms-nxt",
+    "brand": "LEGO",
+    "model": "Mindstorms NXT",
+    "title": "Lego Mindstorms NXT",
+    "category": "Toys",
+    "referenceValue": 180,
+    "family": "construction-set"
+  },
+  {
+    "id": "lego-mindstorms-rcx",
+    "brand": "LEGO",
+    "model": "Mindstorms RCX",
+    "title": "Lego Mindstorms",
+    "category": "Toys",
+    "referenceValue": 150,
+    "family": "construction-set"
+  },
+  {
+    "id": "lego-technic-8860",
+    "brand": "LEGO",
+    "model": "Technic 8860",
+    "title": "Lego Technic",
+    "category": "Toys",
+    "referenceValue": 220,
+    "family": "construction-set"
+  },
+  {
+    "id": "polaroid-land-camera-100",
+    "brand": "Polaroid",
+    "model": "Land Camera 100",
+    "title": "Polaroid Land Camera 100",
+    "category": "Photography",
+    "referenceValue": 100,
+    "family": "instant-camera"
+  },
+  {
+    "id": "kodak-disc-4000",
+    "brand": "Kodak",
+    "model": "Disc 4000",
+    "title": "Kodak Disc 4000",
+    "category": "Photography",
+    "referenceValue": 45,
+    "family": "film-camera"
+  },
+  {
+    "id": "olympus-mju",
+    "brand": "Olympus",
+    "model": "µ[mju:]",
+    "title": "Olympus mju",
+    "category": "Photography",
+    "referenceValue": 220,
+    "family": "film-camera"
+  },
+  {
+    "id": "yashica-t4",
+    "brand": "Yashica",
+    "model": "T4",
+    "title": "Yashica T4",
+    "category": "Photography",
+    "referenceValue": 350,
+    "family": "film-camera"
+  },
+  {
+    "id": "sony-mavica-mvc-fd5",
+    "brand": "Sony",
+    "model": "Mavica MVC-FD5",
+    "title": "Sony Mavica MVC-FD5",
+    "category": "Photography",
+    "referenceValue": 80,
+    "family": "digital-camera"
+  },
+  {
+    "id": "sony-cyber-shot-dsc-f717",
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-F717",
+    "title": "Sony Cyber-shot DSC-F717",
+    "category": "Photography",
+    "referenceValue": 120,
+    "family": "digital-camera"
+  }
+]

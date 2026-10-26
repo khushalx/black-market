@@ -1,0 +1,1639 @@
+{
+  "reviewedAt": "2026-10-26",
+  "currency": "fictional USD",
+  "note": "Curated game-design baselines, not completed transactions or live quotes.",
+  "products": [
+    {
+      "id": "canon-5d-ii",
+      "brand": "Canon",
+      "model": "EOS 5D Mark II",
+      "referenceValue": 340,
+      "rationale": "Used body-only baseline; mature DSLR demand and battery/charger included. A pictured lens is excluded."
+    },
+    {
+      "id": "nikon-d7000",
+      "brand": "Nikon",
+      "model": "D7000",
+      "referenceValue": 220,
+      "rationale": "Used body-only baseline; no lens, no retail warranty, ordinary production model."
+    },
+    {
+      "id": "sony-a6000",
+      "brand": "Sony",
+      "model": "Alpha a6000",
+      "referenceValue": 509,
+      "rationale": "Median of three observed MPB asking examples ($529, $509, $504). Asking prices include retailer warranty; these are not completed sales."
+    },
+    {
+      "id": "fujifilm-x100",
+      "brand": "Fujifilm",
+      "model": "FinePix X100",
+      "referenceValue": 597,
+      "rationale": "Rounded median of six observed MPB good-condition asking listings: $619, $599, $599, $594, $594, $554. Asking prices include retailer warranty; these are not completed sales."
+    },
+    {
+      "id": "olympus-em10-ii",
+      "brand": "Olympus",
+      "model": "OM-D E-M10 Mark II",
+      "referenceValue": 300,
+      "rationale": "Used body-only baseline; common second-generation mirrorless body with essential power accessories."
+    },
+    {
+      "id": "panasonic-gf1",
+      "brand": "Panasonic",
+      "model": "Lumix DMC-GF1",
+      "referenceValue": 150,
+      "rationale": "Used body-only baseline reflecting an older sensor and limited video features; no lens or box premium."
+    },
+    {
+      "id": "canon-ae1-program",
+      "brand": "Canon",
+      "model": "AE-1 Program",
+      "referenceValue": 180,
+      "rationale": "Used body-only baseline; common enthusiast film body. Function and light-seal inspection affect its game appraisal."
+    },
+    {
+      "id": "nikon-f50",
+      "brand": "Nikon",
+      "model": "F50 + 28–80 mm",
+      "referenceValue": 85,
+      "rationale": "Entry-level autofocus film kit baseline, including an ordinary consumer zoom rather than a rare lens."
+    },
+    {
+      "id": "polaroid-sx70",
+      "brand": "Polaroid",
+      "model": "SX-70",
+      "referenceValue": 230,
+      "rationale": "Used folding-camera baseline without film or a restoration warranty; motor and exposure testing carry a substantial adjustment."
+    },
+    {
+      "id": "minolta-x700",
+      "brand": "Minolta",
+      "model": "X-700",
+      "referenceValue": 165,
+      "rationale": "Used body-only baseline with no collector-edition premium; capacitor and exposure checks affect value."
+    },
+    {
+      "id": "nintendo-switch",
+      "brand": "Nintendo",
+      "model": "Switch HAC-001",
+      "referenceValue": 190,
+      "rationale": "Unboxed original-model used bundle baseline; predates OLED and Switch 2 and includes no games."
+    },
+    {
+      "id": "nintendo-gameboy",
+      "brand": "Nintendo",
+      "model": "Game Boy DMG-01",
+      "referenceValue": 110,
+      "rationale": "Unboxed common-colour handheld baseline; screen lines, contacts and original shell condition determine adjustments."
+    },
+    {
+      "id": "nintendo-ds-lite",
+      "brand": "Nintendo",
+      "model": "DS Lite",
+      "referenceValue": 75,
+      "rationale": "Ordinary black unboxed unit baseline with charger and stylus; no limited-edition premium."
+    },
+    {
+      "id": "nintendo-3ds",
+      "brand": "Nintendo",
+      "model": "3DS CTR-001",
+      "referenceValue": 140,
+      "rationale": "Original model baseline, below later New 3DS models; software/account value is excluded."
+    },
+    {
+      "id": "sony-ps2-slim",
+      "brand": "Sony",
+      "model": "PlayStation 2 Slim SCPH-70001",
+      "referenceValue": 100,
+      "rationale": "Common North American slim-console used bundle baseline, no games or original packaging."
+    },
+    {
+      "id": "sony-psp",
+      "brand": "Sony",
+      "model": "PlayStation Portable PSP-1000",
+      "referenceValue": 105,
+      "rationale": "Common original-model unboxed baseline with working battery; battery ageing and UMD reading are material."
+    },
+    {
+      "id": "xbox-360-pro",
+      "brand": "Microsoft",
+      "model": "Xbox 360 Pro 20 GB",
+      "referenceValue": 95,
+      "rationale": "Original 20 GB used-console bundle baseline; repair history and heat stability create meaningful discounts."
+    },
+    {
+      "id": "macintosh-classic",
+      "brand": "Apple",
+      "model": "Macintosh Classic",
+      "referenceValue": 350,
+      "rationale": "Common compact-Mac used baseline with peripherals; no box or rare-software premium, and no guaranteed recap service."
+    },
+    {
+      "id": "commodore-64",
+      "brand": "Commodore",
+      "model": "64 breadbin",
+      "referenceValue": 220,
+      "rationale": "Common breadbin baseline with safer replacement power adapter; no disk drive, games or original packaging."
+    },
+    {
+      "id": "raspberry-pi4",
+      "brand": "Raspberry Pi",
+      "model": "4 Model B 4 GB",
+      "referenceValue": 55,
+      "rationale": "Used 4 GB board bundle baseline; modest accessory allowance, no case, heatsink or display premium."
+    },
+    {
+      "id": "sony-wh1000xm3",
+      "brand": "Sony",
+      "model": "WH-1000XM3",
+      "referenceValue": 110,
+      "rationale": "Used older-generation ANC headphones baseline with case; no factory warranty or sealed-box premium."
+    },
+    {
+      "id": "technics-sl1200",
+      "brand": "Technics",
+      "model": "SL-1200MK2",
+      "referenceValue": 650,
+      "rationale": "Used single-turntable baseline with ordinary cartridge; no matched-pair, rare-finish or professional-service premium."
+    },
+    {
+      "id": "audio-technica-m50",
+      "brand": "Audio-Technica",
+      "model": "ATH-M50",
+      "referenceValue": 65,
+      "rationale": "Older fixed-cable model used baseline, below a new M50x; pad wear and cable continuity are material."
+    },
+    {
+      "id": "casio-f91w",
+      "brand": "Casio",
+      "model": "F-91W-1",
+      "referenceValue": 25,
+      "rationale": "Curated used baseline below the observed $29.95 official US retail listing; standard black version."
+    },
+    {
+      "id": "seiko-skx007",
+      "brand": "Seiko",
+      "model": "SKX007",
+      "referenceValue": 340,
+      "rationale": "Used no-papers baseline for a common discontinued diver; no rarity premium, pressure certification or recent-service assumption."
+    },
+    {
+      "id": "seiko-snk809",
+      "brand": "Seiko",
+      "model": "5 SNK809",
+      "referenceValue": 100,
+      "rationale": "Used common field-watch baseline; strap and movement health matter more than packaging."
+    },
+    {
+      "id": "tissot-prx",
+      "brand": "Tissot",
+      "model": "PRX quartz 40 mm",
+      "referenceValue": 290,
+      "rationale": "Curated used baseline discounted from the observed $450 official 40 mm quartz retail reference; no automatic-movement premium."
+    },
+    {
+      "id": "squier-affinity",
+      "brand": "Squier",
+      "model": "Affinity Series Stratocaster",
+      "referenceValue": 180,
+      "rationale": "Curated used baseline below the observed $319.99 official new Affinity Stratocaster reference; ordinary production guitar."
+    },
+    {
+      "id": "korg-microkorg",
+      "brand": "Korg",
+      "model": "microKORG",
+      "referenceValue": 250,
+      "rationale": "Used original-model baseline; no XL, microKORG 2, rare finish or software-library premium."
+    },
+    {
+      "id": "boss-ds1",
+      "brand": "Boss",
+      "model": "DS-1 Distortion",
+      "referenceValue": 45,
+      "rationale": "Common used Taiwan-production pedal baseline; no vintage circuit, anniversary edition or box premium."
+    },
+    {
+      "id": "adidas-stan-smith",
+      "brand": "Adidas",
+      "model": "Stan Smith white/green",
+      "referenceValue": 55,
+      "rationale": "Curated lightly-used standard-pair baseline; no collaboration premium, resale hype or new-in-box assumption."
+    },
+    {
+      "id": "converse-allstar",
+      "brand": "Converse",
+      "model": "Chuck Taylor All Star high-top",
+      "referenceValue": 50,
+      "rationale": "Curated lightly-used standard-pair baseline; common edition and no box or collectible-size premium."
+    },
+    {
+      "id": "herman-miller-aeron",
+      "brand": "Herman Miller",
+      "model": "Aeron Classic",
+      "referenceValue": 500,
+      "rationale": "Used original-generation chair baseline, not a new Remastered chair; no delivery or warranty allowance."
+    },
+    {
+      "id": "kitchenaid-artisan",
+      "brand": "KitchenAid",
+      "model": "Artisan KSM150PSWH",
+      "referenceValue": 230,
+      "rationale": "Used five-quart household mixer baseline with standard tools; no specialty attachments or factory-refurbishment warranty."
+    },
+    {
+      "id": "bialetti-moka",
+      "brand": "Bialetti",
+      "model": "Moka Express",
+      "referenceValue": 35,
+      "rationale": "Curated used standard-model estimate. No verified transaction comparables are available; common household item, no box or special edition premium."
+    },
+    {
+      "id": "wilson-prostaff",
+      "brand": "Wilson",
+      "model": "Pro Staff 6.0",
+      "referenceValue": 180,
+      "rationale": "Used standard racquet baseline without autographs or athlete provenance; frame cracks, grommets and string life affect value."
+    },
+    {
+      "id": "nintendo-nes",
+      "brand": "Nintendo",
+      "model": "Entertainment System",
+      "referenceValue": 120,
+      "rationale": "Unboxed common-console bundle baseline; no games, original packaging or limited-edition premium."
+    },
+    {
+      "id": "nintendo-snes",
+      "brand": "Nintendo",
+      "model": "Super Nintendo",
+      "referenceValue": 130,
+      "rationale": "Unboxed common North American console baseline; shell yellowing and cartridge reading are material."
+    },
+    {
+      "id": "nintendo-gamecube",
+      "brand": "Nintendo",
+      "model": "GameCube DOL-001",
+      "referenceValue": 130,
+      "rationale": "Unboxed ordinary-colour system baseline; working optical drive and original controller assumed before inspection discounts."
+    },
+    {
+      "id": "sega-genesis",
+      "brand": "Sega",
+      "model": "Genesis Model 1",
+      "referenceValue": 95,
+      "rationale": "Common Model 1 unboxed console bundle baseline; no rare revision, games or packaging premium."
+    },
+    {
+      "id": "atari-2600",
+      "brand": "Atari",
+      "model": "2600",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari 2600. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_2600"
+    },
+    {
+      "id": "atari-5200",
+      "brand": "Atari",
+      "model": "5200",
+      "referenceValue": 170,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari 5200. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_5200"
+    },
+    {
+      "id": "atari-7800",
+      "brand": "Atari",
+      "model": "7800",
+      "referenceValue": 150,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari 7800. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_7800"
+    },
+    {
+      "id": "atari-lynx",
+      "brand": "Atari",
+      "model": "Lynx",
+      "referenceValue": 240,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari Lynx. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_Lynx"
+    },
+    {
+      "id": "atari-800",
+      "brand": "Atari",
+      "model": "800",
+      "referenceValue": 350,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari 800. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_8-bit_computers"
+    },
+    {
+      "id": "atari-st",
+      "brand": "Atari",
+      "model": "ST",
+      "referenceValue": 280,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari ST. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_ST"
+    },
+    {
+      "id": "atari-falcon",
+      "brand": "Atari",
+      "model": "Falcon",
+      "referenceValue": 1800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Atari Falcon. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Atari_Falcon"
+    },
+    {
+      "id": "nintendo-wii",
+      "brand": "Nintendo",
+      "model": "Wii",
+      "referenceValue": 85,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Wii. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Wii"
+    },
+    {
+      "id": "nintendo-wii-u",
+      "brand": "Nintendo",
+      "model": "Wii U",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Wii U. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Wii_U"
+    },
+    {
+      "id": "nintendo-nintendo-64",
+      "brand": "Nintendo",
+      "model": "Nintendo 64",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Nintendo 64. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nintendo_64"
+    },
+    {
+      "id": "nintendo-game-boy-color",
+      "brand": "Nintendo",
+      "model": "Game Boy Color",
+      "referenceValue": 100,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Game Boy Color. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Game_Boy_Color"
+    },
+    {
+      "id": "nintendo-game-boy-advance",
+      "brand": "Nintendo",
+      "model": "Game Boy Advance",
+      "referenceValue": 100,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Game Boy Advance. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Game_Boy_Advance"
+    },
+    {
+      "id": "nintendo-game-boy-advance-sp",
+      "brand": "Nintendo",
+      "model": "Game Boy Advance SP",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Game Boy Advance SP. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Game_Boy_Advance_SP"
+    },
+    {
+      "id": "nintendo-game-boy-micro",
+      "brand": "Nintendo",
+      "model": "Game Boy Micro",
+      "referenceValue": 230,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Game Boy Micro. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Game_Boy_Micro"
+    },
+    {
+      "id": "nintendo-dsi",
+      "brand": "Nintendo",
+      "model": "DSi",
+      "referenceValue": 80,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo DSi. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nintendo_DSi"
+    },
+    {
+      "id": "nintendo-2ds",
+      "brand": "Nintendo",
+      "model": "2DS",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo 2DS. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nintendo_2DS"
+    },
+    {
+      "id": "nintendo-new-nintendo-3ds",
+      "brand": "Nintendo",
+      "model": "New Nintendo 3DS",
+      "referenceValue": 240,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo New Nintendo 3DS. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/New_Nintendo_3DS"
+    },
+    {
+      "id": "nintendo-virtual-boy",
+      "brand": "Nintendo",
+      "model": "Virtual Boy",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo Virtual Boy. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Virtual_Boy"
+    },
+    {
+      "id": "sony-playstation-2",
+      "brand": "Sony",
+      "model": "PlayStation 2",
+      "referenceValue": 100,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PlayStation 2. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PlayStation_2"
+    },
+    {
+      "id": "sony-playstation-3",
+      "brand": "Sony",
+      "model": "PlayStation 3",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PlayStation 3. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PlayStation_3"
+    },
+    {
+      "id": "sony-playstation-4",
+      "brand": "Sony",
+      "model": "PlayStation 4",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PlayStation 4. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PlayStation_4"
+    },
+    {
+      "id": "sony-playstation-vita",
+      "brand": "Sony",
+      "model": "PlayStation Vita",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PlayStation Vita. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PlayStation_Vita"
+    },
+    {
+      "id": "sony-pocketstation",
+      "brand": "Sony",
+      "model": "PocketStation",
+      "referenceValue": 75,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PocketStation. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PocketStation"
+    },
+    {
+      "id": "sony-psp-go",
+      "brand": "Sony",
+      "model": "PSP Go",
+      "referenceValue": 170,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony PSP Go. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PlayStation_Portable"
+    },
+    {
+      "id": "sega-saturn",
+      "brand": "Sega",
+      "model": "Saturn",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega Saturn. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Sega_Saturn"
+    },
+    {
+      "id": "sega-master-system",
+      "brand": "Sega",
+      "model": "Master System",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega Master System. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Master_System"
+    },
+    {
+      "id": "sega-nomad",
+      "brand": "Sega",
+      "model": "Nomad",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega Nomad. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Genesis_Nomad"
+    },
+    {
+      "id": "sega-cd",
+      "brand": "Sega",
+      "model": "CD",
+      "referenceValue": 280,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega CD. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Sega_CD"
+    },
+    {
+      "id": "sega-32x",
+      "brand": "Sega",
+      "model": "32X",
+      "referenceValue": 170,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega 32X. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/32X"
+    },
+    {
+      "id": "sega-sg-1000",
+      "brand": "Sega",
+      "model": "SG-1000",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sega SG-1000. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/SG-1000"
+    },
+    {
+      "id": "nec-pc-fx",
+      "brand": "NEC",
+      "model": "PC-FX",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used NEC PC-FX. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PC-FX"
+    },
+    {
+      "id": "snk-neo-geo-aes",
+      "brand": "SNK",
+      "model": "Neo Geo AES",
+      "referenceValue": 900,
+      "rationale": "Curated fictional-dollar baseline for a standard used SNK Neo Geo AES. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Neo_Geo"
+    },
+    {
+      "id": "snk-neo-geo-cd",
+      "brand": "SNK",
+      "model": "Neo Geo CD",
+      "referenceValue": 350,
+      "rationale": "Curated fictional-dollar baseline for a standard used SNK Neo Geo CD. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Neo_Geo_CD"
+    },
+    {
+      "id": "snk-neo-geo-pocket-color",
+      "brand": "SNK",
+      "model": "Neo Geo Pocket Color",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used SNK Neo Geo Pocket Color. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Neo_Geo_Pocket"
+    },
+    {
+      "id": "bandai-wonderswan-color",
+      "brand": "Bandai",
+      "model": "WonderSwan Color",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Bandai WonderSwan Color. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/WonderSwan_Color"
+    },
+    {
+      "id": "nokia-n-gage",
+      "brand": "Nokia",
+      "model": "N-Gage",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nokia N-Gage. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/N-Gage"
+    },
+    {
+      "id": "mattel-intellivision",
+      "brand": "Mattel",
+      "model": "Intellivision",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Mattel Intellivision. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Intellivision"
+    },
+    {
+      "id": "coleco-colecovision",
+      "brand": "Coleco",
+      "model": "ColecoVision",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Coleco ColecoVision. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/ColecoVision"
+    },
+    {
+      "id": "magnavox-odyssey",
+      "brand": "Magnavox",
+      "model": "Odyssey",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Magnavox Odyssey. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+    },
+    {
+      "id": "magnavox-odyssey-2",
+      "brand": "Magnavox",
+      "model": "Odyssey 2",
+      "referenceValue": 110,
+      "rationale": "Curated fictional-dollar baseline for a standard used Magnavox Odyssey 2. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Magnavox_Odyssey_2"
+    },
+    {
+      "id": "milton-bradley-vectrex",
+      "brand": "Milton Bradley",
+      "model": "Vectrex",
+      "referenceValue": 650,
+      "rationale": "Curated fictional-dollar baseline for a standard used Milton Bradley Vectrex. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Vectrex"
+    },
+    {
+      "id": "fairchild-channel-f",
+      "brand": "Fairchild",
+      "model": "Channel F",
+      "referenceValue": 280,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fairchild Channel F. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fairchild_Channel_F"
+    },
+    {
+      "id": "panasonic-3do",
+      "brand": "Panasonic",
+      "model": "3DO",
+      "referenceValue": 260,
+      "rationale": "Curated fictional-dollar baseline for a standard used Panasonic 3DO. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/3DO"
+    },
+    {
+      "id": "microsoft-xbox",
+      "brand": "Microsoft",
+      "model": "Xbox",
+      "referenceValue": 100,
+      "rationale": "Curated fictional-dollar baseline for a standard used Microsoft Xbox. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Xbox_(console)"
+    },
+    {
+      "id": "microsoft-xbox-one",
+      "brand": "Microsoft",
+      "model": "Xbox One",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Microsoft Xbox One. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Xbox_One"
+    },
+    {
+      "id": "commodore-vic-20",
+      "brand": "Commodore",
+      "model": "VIC-20",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Commodore VIC-20. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/VIC-20"
+    },
+    {
+      "id": "commodore-128",
+      "brand": "Commodore",
+      "model": "128",
+      "referenceValue": 270,
+      "rationale": "Curated fictional-dollar baseline for a standard used Commodore 128. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Commodore_128"
+    },
+    {
+      "id": "commodore-amiga-500",
+      "brand": "Commodore",
+      "model": "Amiga 500",
+      "referenceValue": 400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Commodore Amiga 500. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Amiga_500"
+    },
+    {
+      "id": "commodore-amiga-1200",
+      "brand": "Commodore",
+      "model": "Amiga 1200",
+      "referenceValue": 650,
+      "rationale": "Curated fictional-dollar baseline for a standard used Commodore Amiga 1200. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Amiga_1200"
+    },
+    {
+      "id": "sinclair-zx-spectrum",
+      "brand": "Sinclair",
+      "model": "ZX Spectrum",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sinclair ZX Spectrum. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/ZX_Spectrum"
+    },
+    {
+      "id": "sinclair-zx81",
+      "brand": "Sinclair",
+      "model": "ZX81",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sinclair ZX81. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/ZX81"
+    },
+    {
+      "id": "amstrad-cpc-464",
+      "brand": "Amstrad",
+      "model": "CPC 464",
+      "referenceValue": 250,
+      "rationale": "Curated fictional-dollar baseline for a standard used Amstrad CPC 464. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Amstrad_CPC"
+    },
+    {
+      "id": "acorn-bbc-micro",
+      "brand": "Acorn",
+      "model": "BBC Micro",
+      "referenceValue": 320,
+      "rationale": "Curated fictional-dollar baseline for a standard used Acorn BBC Micro. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/BBC_Micro"
+    },
+    {
+      "id": "acorn-electron",
+      "brand": "Acorn",
+      "model": "Electron",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Acorn Electron. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Acorn_Electron"
+    },
+    {
+      "id": "apple-apple-iic",
+      "brand": "Apple",
+      "model": "Apple IIc",
+      "referenceValue": 450,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple Apple IIc. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Apple_IIc"
+    },
+    {
+      "id": "apple-apple-iie",
+      "brand": "Apple",
+      "model": "Apple IIe",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple Apple IIe. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Apple_IIe"
+    },
+    {
+      "id": "apple-macintosh-plus",
+      "brand": "Apple",
+      "model": "Macintosh Plus",
+      "referenceValue": 380,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple Macintosh Plus. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Macintosh_Plus"
+    },
+    {
+      "id": "apple-imac-g3",
+      "brand": "Apple",
+      "model": "iMac G3",
+      "referenceValue": 260,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple iMac G3. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/IMac_G3"
+    },
+    {
+      "id": "apple-ibook-g3",
+      "brand": "Apple",
+      "model": "iBook G3",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple iBook G3. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/IBook"
+    },
+    {
+      "id": "apple-powerbook-100",
+      "brand": "Apple",
+      "model": "PowerBook 100",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple PowerBook 100. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/PowerBook_100"
+    },
+    {
+      "id": "apple-macintosh-color-classic",
+      "brand": "Apple",
+      "model": "Macintosh Color Classic",
+      "referenceValue": 900,
+      "rationale": "Curated fictional-dollar baseline for a standard used Apple Macintosh Color Classic. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Macintosh_Color_Classic"
+    },
+    {
+      "id": "tandy-trs-80-model-100",
+      "brand": "Tandy",
+      "model": "TRS-80 Model 100",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Tandy TRS-80 Model 100. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/TRS-80_Model_100"
+    },
+    {
+      "id": "ibm-thinkpad-701",
+      "brand": "IBM",
+      "model": "ThinkPad 701",
+      "referenceValue": 650,
+      "rationale": "Curated fictional-dollar baseline for a standard used IBM ThinkPad 701. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/ThinkPad_701"
+    },
+    {
+      "id": "ibm-model-m",
+      "brand": "IBM",
+      "model": "Model M",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used IBM Model M. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Model_M_keyboard"
+    },
+    {
+      "id": "texas-instruments-ti-89",
+      "brand": "Texas Instruments",
+      "model": "TI-89",
+      "referenceValue": 80,
+      "rationale": "Curated fictional-dollar baseline for a standard used Texas Instruments TI-89. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/TI-89_series"
+    },
+    {
+      "id": "hewlett-packard-hp-12c",
+      "brand": "Hewlett-Packard",
+      "model": "HP-12C",
+      "referenceValue": 90,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hewlett-Packard HP-12C. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/HP-12C"
+    },
+    {
+      "id": "hewlett-packard-hp-15c",
+      "brand": "Hewlett-Packard",
+      "model": "HP-15C",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hewlett-Packard HP-15C. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/HP-15C"
+    },
+    {
+      "id": "hewlett-packard-hp-35",
+      "brand": "Hewlett-Packard",
+      "model": "HP-35",
+      "referenceValue": 240,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hewlett-Packard HP-35. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/HP-35"
+    },
+    {
+      "id": "hewlett-packard-hp-41c",
+      "brand": "Hewlett-Packard",
+      "model": "HP-41C",
+      "referenceValue": 220,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hewlett-Packard HP-41C. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/HP-41C"
+    },
+    {
+      "id": "hewlett-packard-hp-48",
+      "brand": "Hewlett-Packard",
+      "model": "HP-48",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hewlett-Packard HP-48. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/HP_48_series"
+    },
+    {
+      "id": "casio-fx-7000g",
+      "brand": "Casio",
+      "model": "fx-7000G",
+      "referenceValue": 85,
+      "rationale": "Curated fictional-dollar baseline for a standard used Casio fx-7000G. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Casio_fx-7000G"
+    },
+    {
+      "id": "casio-vl-1",
+      "brand": "Casio",
+      "model": "VL-1",
+      "referenceValue": 110,
+      "rationale": "Curated fictional-dollar baseline for a standard used Casio VL-1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Casio_VL-1"
+    },
+    {
+      "id": "casio-sk-1",
+      "brand": "Casio",
+      "model": "SK-1",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Casio SK-1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Casio_SK-1"
+    },
+    {
+      "id": "roland-tr-808",
+      "brand": "Roland",
+      "model": "TR-808",
+      "referenceValue": 5000,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland TR-808. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_TR-808"
+    },
+    {
+      "id": "roland-tr-909",
+      "brand": "Roland",
+      "model": "TR-909",
+      "referenceValue": 4200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland TR-909. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_TR-909"
+    },
+    {
+      "id": "roland-tb-303",
+      "brand": "Roland",
+      "model": "TB-303",
+      "referenceValue": 2800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland TB-303. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_TB-303"
+    },
+    {
+      "id": "roland-d-50",
+      "brand": "Roland",
+      "model": "D-50",
+      "referenceValue": 600,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland D-50. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_D-50"
+    },
+    {
+      "id": "roland-sh-101",
+      "brand": "Roland",
+      "model": "SH-101",
+      "referenceValue": 1400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland SH-101. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_SH-101"
+    },
+    {
+      "id": "roland-mc-303",
+      "brand": "Roland",
+      "model": "MC-303",
+      "referenceValue": 280,
+      "rationale": "Curated fictional-dollar baseline for a standard used Roland MC-303. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Roland_MC-303"
+    },
+    {
+      "id": "yamaha-dx7",
+      "brand": "Yamaha",
+      "model": "DX7",
+      "referenceValue": 600,
+      "rationale": "Curated fictional-dollar baseline for a standard used Yamaha DX7. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Yamaha_DX7"
+    },
+    {
+      "id": "yamaha-cs-80",
+      "brand": "Yamaha",
+      "model": "CS-80",
+      "referenceValue": 18000,
+      "rationale": "Curated fictional-dollar baseline for a standard used Yamaha CS-80. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Yamaha_CS-80"
+    },
+    {
+      "id": "korg-ms-20",
+      "brand": "Korg",
+      "model": "MS-20",
+      "referenceValue": 1000,
+      "rationale": "Curated fictional-dollar baseline for a standard used Korg MS-20. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Korg_MS-20"
+    },
+    {
+      "id": "korg-m1",
+      "brand": "Korg",
+      "model": "M1",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Korg M1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Korg_M1"
+    },
+    {
+      "id": "moog-minimoog",
+      "brand": "Moog",
+      "model": "Minimoog",
+      "referenceValue": 3500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Moog Minimoog. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Minimoog"
+    },
+    {
+      "id": "akai-mpc60",
+      "brand": "Akai",
+      "model": "MPC60",
+      "referenceValue": 1700,
+      "rationale": "Curated fictional-dollar baseline for a standard used Akai MPC60. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Akai_MPC"
+    },
+    {
+      "id": "ibanez-tube-screamer",
+      "brand": "Ibanez",
+      "model": "Tube Screamer",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Ibanez Tube Screamer. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Ibanez_Tube_Screamer"
+    },
+    {
+      "id": "dunlop-cry-baby",
+      "brand": "Dunlop",
+      "model": "Cry Baby",
+      "referenceValue": 80,
+      "rationale": "Curated fictional-dollar baseline for a standard used Dunlop Cry Baby. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Dunlop_Cry_Baby"
+    },
+    {
+      "id": "fender-stratocaster",
+      "brand": "Fender",
+      "model": "Stratocaster",
+      "referenceValue": 900,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fender Stratocaster. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fender_Stratocaster"
+    },
+    {
+      "id": "fender-jazzmaster",
+      "brand": "Fender",
+      "model": "Jazzmaster",
+      "referenceValue": 1000,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fender Jazzmaster. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fender_Jazzmaster"
+    },
+    {
+      "id": "fender-mustang",
+      "brand": "Fender",
+      "model": "Mustang",
+      "referenceValue": 700,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fender Mustang. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fender_Mustang"
+    },
+    {
+      "id": "gibson-les-paul",
+      "brand": "Gibson",
+      "model": "Les Paul",
+      "referenceValue": 1600,
+      "rationale": "Curated fictional-dollar baseline for a standard used Gibson Les Paul. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Gibson_Les_Paul"
+    },
+    {
+      "id": "gibson-sg",
+      "brand": "Gibson",
+      "model": "SG",
+      "referenceValue": 1200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Gibson SG. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Gibson_SG"
+    },
+    {
+      "id": "gibson-es-335",
+      "brand": "Gibson",
+      "model": "ES-335",
+      "referenceValue": 2400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Gibson ES-335. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Gibson_ES-335"
+    },
+    {
+      "id": "gretsch-white-falcon",
+      "brand": "Gretsch",
+      "model": "White Falcon",
+      "referenceValue": 2300,
+      "rationale": "Curated fictional-dollar baseline for a standard used Gretsch White Falcon. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Gretsch_White_Falcon"
+    },
+    {
+      "id": "leica-m6",
+      "brand": "Leica",
+      "model": "M6",
+      "referenceValue": 2400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Leica M6. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Leica_M6"
+    },
+    {
+      "id": "leica-m4",
+      "brand": "Leica",
+      "model": "M4",
+      "referenceValue": 1800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Leica M4. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Leica_M4"
+    },
+    {
+      "id": "mamiya-rb67",
+      "brand": "Mamiya",
+      "model": "RB67",
+      "referenceValue": 900,
+      "rationale": "Curated fictional-dollar baseline for a standard used Mamiya RB67. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Mamiya_RB67"
+    },
+    {
+      "id": "mamiya-645",
+      "brand": "Mamiya",
+      "model": "645",
+      "referenceValue": 650,
+      "rationale": "Curated fictional-dollar baseline for a standard used Mamiya 645. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Mamiya_645"
+    },
+    {
+      "id": "pentax-spotmatic",
+      "brand": "Pentax",
+      "model": "Spotmatic",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Pentax Spotmatic. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Pentax_Spotmatic"
+    },
+    {
+      "id": "pentax-6-7",
+      "brand": "Pentax",
+      "model": "6×7",
+      "referenceValue": 800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Pentax 6×7. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Pentax_6%C3%977"
+    },
+    {
+      "id": "pentax-me-super",
+      "brand": "Pentax",
+      "model": "ME Super",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Pentax ME Super. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Pentax_ME_Super"
+    },
+    {
+      "id": "nikon-f2",
+      "brand": "Nikon",
+      "model": "F2",
+      "referenceValue": 350,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon F2. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_F2"
+    },
+    {
+      "id": "nikon-f3",
+      "brand": "Nikon",
+      "model": "F3",
+      "referenceValue": 450,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon F3. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_F3"
+    },
+    {
+      "id": "nikon-fm2",
+      "brand": "Nikon",
+      "model": "FM2",
+      "referenceValue": 380,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon FM2. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_FM2"
+    },
+    {
+      "id": "nikon-fe",
+      "brand": "Nikon",
+      "model": "FE",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon FE. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_FE"
+    },
+    {
+      "id": "nikon-f100",
+      "brand": "Nikon",
+      "model": "F100",
+      "referenceValue": 250,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon F100. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_F100"
+    },
+    {
+      "id": "nikon-d90",
+      "brand": "Nikon",
+      "model": "D90",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon D90. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_D90"
+    },
+    {
+      "id": "nikon-d300",
+      "brand": "Nikon",
+      "model": "D300",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon D300. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_D300"
+    },
+    {
+      "id": "nikon-d750",
+      "brand": "Nikon",
+      "model": "D750",
+      "referenceValue": 600,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nikon D750. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nikon_D750"
+    },
+    {
+      "id": "canon-ae-1",
+      "brand": "Canon",
+      "model": "AE-1",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon AE-1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_AE-1"
+    },
+    {
+      "id": "canon-f-1",
+      "brand": "Canon",
+      "model": "F-1",
+      "referenceValue": 350,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon F-1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_F-1"
+    },
+    {
+      "id": "canon-t90",
+      "brand": "Canon",
+      "model": "T90",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon T90. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_T90"
+    },
+    {
+      "id": "canon-eos-650",
+      "brand": "Canon",
+      "model": "EOS 650",
+      "referenceValue": 70,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 650. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_650"
+    },
+    {
+      "id": "canon-eos-40d",
+      "brand": "Canon",
+      "model": "EOS 40D",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 40D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_40D"
+    },
+    {
+      "id": "canon-eos-50d",
+      "brand": "Canon",
+      "model": "EOS 50D",
+      "referenceValue": 170,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 50D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_50D"
+    },
+    {
+      "id": "canon-eos-60d",
+      "brand": "Canon",
+      "model": "EOS 60D",
+      "referenceValue": 220,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 60D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_60D"
+    },
+    {
+      "id": "canon-eos-7d",
+      "brand": "Canon",
+      "model": "EOS 7D",
+      "referenceValue": 260,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 7D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_7D"
+    },
+    {
+      "id": "canon-eos-6d",
+      "brand": "Canon",
+      "model": "EOS 6D",
+      "referenceValue": 400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 6D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_6D"
+    },
+    {
+      "id": "canon-eos-5d",
+      "brand": "Canon",
+      "model": "EOS 5D",
+      "referenceValue": 250,
+      "rationale": "Curated fictional-dollar baseline for a standard used Canon EOS 5D. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Canon_EOS_5D"
+    },
+    {
+      "id": "olympus-om-2",
+      "brand": "Olympus",
+      "model": "OM-2",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Olympus OM-2. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Olympus_OM-2"
+    },
+    {
+      "id": "olympus-trip-35",
+      "brand": "Olympus",
+      "model": "Trip 35",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Olympus Trip 35. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Olympus_Trip_35"
+    },
+    {
+      "id": "olympus-e-pl1",
+      "brand": "Olympus",
+      "model": "E-PL1",
+      "referenceValue": 110,
+      "rationale": "Curated fictional-dollar baseline for a standard used Olympus E-PL1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Olympus_PEN_E-PL1"
+    },
+    {
+      "id": "olympus-xa",
+      "brand": "Olympus",
+      "model": "XA",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Olympus XA. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Olympus_XA"
+    },
+    {
+      "id": "fujifilm-x-t1",
+      "brand": "Fujifilm",
+      "model": "X-T1",
+      "referenceValue": 450,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fujifilm X-T1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fujifilm_X-T1"
+    },
+    {
+      "id": "fujifilm-x-e1",
+      "brand": "Fujifilm",
+      "model": "X-E1",
+      "referenceValue": 320,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fujifilm X-E1. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fujifilm_X-E1"
+    },
+    {
+      "id": "fujifilm-x10",
+      "brand": "Fujifilm",
+      "model": "X10",
+      "referenceValue": 280,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fujifilm X10. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Fujifilm_X10"
+    },
+    {
+      "id": "ricoh-gr-iii",
+      "brand": "Ricoh",
+      "model": "GR III",
+      "referenceValue": 800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Ricoh GR III. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Ricoh_GR_(large_sensor_compact_camera)"
+    },
+    {
+      "id": "yashica-electro-35",
+      "brand": "Yashica",
+      "model": "Electro 35",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Yashica Electro 35. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Yashica_Electro_35"
+    },
+    {
+      "id": "minolta-maxxum-7000",
+      "brand": "Minolta",
+      "model": "Maxxum 7000",
+      "referenceValue": 100,
+      "rationale": "Curated fictional-dollar baseline for a standard used Minolta Maxxum 7000. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Minolta_Maxxum_7000"
+    },
+    {
+      "id": "kodak-brownie",
+      "brand": "Kodak",
+      "model": "Brownie",
+      "referenceValue": 70,
+      "rationale": "Curated fictional-dollar baseline for a standard used Kodak Brownie. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Kodak_Brownie"
+    },
+    {
+      "id": "lomo-lc-a",
+      "brand": "Lomo",
+      "model": "LC-A",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Lomo LC-A. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Lomo_LC-A"
+    },
+    {
+      "id": "microsoft-zune",
+      "brand": "Microsoft",
+      "model": "Zune",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Microsoft Zune. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Zune_30"
+    },
+    {
+      "id": "technics-sl-10",
+      "brand": "Technics",
+      "model": "SL-10",
+      "referenceValue": 400,
+      "rationale": "Curated fictional-dollar baseline for a standard used Technics SL-10. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Technics_SL-10"
+    },
+    {
+      "id": "linn-sondek-lp12",
+      "brand": "Linn",
+      "model": "Sondek LP12",
+      "referenceValue": 1800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Linn Sondek LP12. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Linn_Sondek_LP12"
+    },
+    {
+      "id": "shure-sm57",
+      "brand": "Shure",
+      "model": "SM57",
+      "referenceValue": 70,
+      "rationale": "Curated fictional-dollar baseline for a standard used Shure SM57. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Shure_SM57"
+    },
+    {
+      "id": "nokia-8110",
+      "brand": "Nokia",
+      "model": "8110",
+      "referenceValue": 130,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nokia 8110. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nokia_8110"
+    },
+    {
+      "id": "nokia-8800",
+      "brand": "Nokia",
+      "model": "8800",
+      "referenceValue": 350,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nokia 8800. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nokia_8800"
+    },
+    {
+      "id": "nokia-9000-communicator",
+      "brand": "Nokia",
+      "model": "9000 Communicator",
+      "referenceValue": 240,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nokia 9000 Communicator. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nokia_9000_Communicator"
+    },
+    {
+      "id": "nokia-n95",
+      "brand": "Nokia",
+      "model": "N95",
+      "referenceValue": 90,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nokia N95. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Nokia_N95"
+    },
+    {
+      "id": "motorola-startac",
+      "brand": "Motorola",
+      "model": "StarTAC",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Motorola StarTAC. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/StarTAC"
+    },
+    {
+      "id": "motorola-razr-v3",
+      "brand": "Motorola",
+      "model": "Razr V3",
+      "referenceValue": 80,
+      "rationale": "Curated fictional-dollar baseline for a standard used Motorola Razr V3. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Motorola_Razr_V3"
+    },
+    {
+      "id": "palm-v",
+      "brand": "Palm",
+      "model": "V",
+      "referenceValue": 90,
+      "rationale": "Curated fictional-dollar baseline for a standard used Palm V. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Palm_V"
+    },
+    {
+      "id": "psion-series-5",
+      "brand": "Psion",
+      "model": "Series 5",
+      "referenceValue": 200,
+      "rationale": "Curated fictional-dollar baseline for a standard used Psion Series 5. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Psion_Series_5"
+    },
+    {
+      "id": "casio-ca-53w",
+      "brand": "Casio",
+      "model": "CA-53W",
+      "referenceValue": 45,
+      "rationale": "Curated fictional-dollar baseline for a standard used Casio CA-53W. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Casio_CA-53W"
+    },
+    {
+      "id": "omega-speedmaster",
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "referenceValue": 3500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Omega Speedmaster. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Omega_Speedmaster"
+    },
+    {
+      "id": "omega-seamaster",
+      "brand": "Omega",
+      "model": "Seamaster",
+      "referenceValue": 2600,
+      "rationale": "Curated fictional-dollar baseline for a standard used Omega Seamaster. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Omega_Seamaster"
+    },
+    {
+      "id": "rolex-submariner",
+      "brand": "Rolex",
+      "model": "Submariner",
+      "referenceValue": 7500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Rolex Submariner. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Rolex_Submariner"
+    },
+    {
+      "id": "rolex-datejust",
+      "brand": "Rolex",
+      "model": "Datejust",
+      "referenceValue": 5000,
+      "rationale": "Curated fictional-dollar baseline for a standard used Rolex Datejust. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Rolex_Datejust"
+    },
+    {
+      "id": "rolex-explorer",
+      "brand": "Rolex",
+      "model": "Explorer",
+      "referenceValue": 5500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Rolex Explorer. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Rolex_Explorer"
+    },
+    {
+      "id": "timex-ironman",
+      "brand": "Timex",
+      "model": "Ironman",
+      "referenceValue": 50,
+      "rationale": "Curated fictional-dollar baseline for a standard used Timex Ironman. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Timex_Ironman"
+    },
+    {
+      "id": "olivetti-valentine",
+      "brand": "Olivetti",
+      "model": "Valentine",
+      "referenceValue": 500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Olivetti Valentine. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Olivetti_Valentine"
+    },
+    {
+      "id": "ibm-selectric",
+      "brand": "IBM",
+      "model": "Selectric",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used IBM Selectric. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/IBM_Selectric"
+    },
+    {
+      "id": "hermes-3000",
+      "brand": "Hermes",
+      "model": "3000",
+      "referenceValue": 650,
+      "rationale": "Curated fictional-dollar baseline for a standard used Hermes 3000. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Hermes_3000"
+    },
+    {
+      "id": "parker-51",
+      "brand": "Parker",
+      "model": "51",
+      "referenceValue": 140,
+      "rationale": "Curated fictional-dollar baseline for a standard used Parker 51. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Parker_51"
+    },
+    {
+      "id": "parker-vacumatic",
+      "brand": "Parker",
+      "model": "Vacumatic",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Parker Vacumatic. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Parker_Vacumatic"
+    },
+    {
+      "id": "lamy-2000",
+      "brand": "Lamy",
+      "model": "2000",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Lamy 2000. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Lamy_2000"
+    },
+    {
+      "id": "fisher-space-pen",
+      "brand": "Fisher",
+      "model": "Space Pen",
+      "referenceValue": 45,
+      "rationale": "Curated fictional-dollar baseline for a standard used Fisher Space Pen. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Space_Pen"
+    },
+    {
+      "id": "victorinox-swiss-army-knife",
+      "brand": "Victorinox",
+      "model": "Swiss Army knife",
+      "referenceValue": 60,
+      "rationale": "Curated fictional-dollar baseline for a standard used Victorinox Swiss Army knife. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Swiss_Army_knife"
+    },
+    {
+      "id": "anglepoise-original-1227",
+      "brand": "Anglepoise",
+      "model": "Original 1227",
+      "referenceValue": 160,
+      "rationale": "Curated fictional-dollar baseline for a standard used Anglepoise Original 1227. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Anglepoise_lamp"
+    },
+    {
+      "id": "artemide-tolomeo",
+      "brand": "Artemide",
+      "model": "Tolomeo",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used Artemide Tolomeo. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Tolomeo_desk_lamp"
+    },
+    {
+      "id": "herman-miller-eames-lounge-chair",
+      "brand": "Herman Miller",
+      "model": "Eames Lounge Chair",
+      "referenceValue": 3500,
+      "rationale": "Curated fictional-dollar baseline for a standard used Herman Miller Eames Lounge Chair. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Eames_Lounge_Chair"
+    },
+    {
+      "id": "vitra-panton-chair",
+      "brand": "Vitra",
+      "model": "Panton Chair",
+      "referenceValue": 300,
+      "rationale": "Curated fictional-dollar baseline for a standard used Vitra Panton Chair. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Panton_Chair"
+    },
+    {
+      "id": "knoll-barcelona-chair",
+      "brand": "Knoll",
+      "model": "Barcelona Chair",
+      "referenceValue": 2800,
+      "rationale": "Curated fictional-dollar baseline for a standard used Knoll Barcelona Chair. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Barcelona_chair"
+    },
+    {
+      "id": "nintendo-r-o-b",
+      "brand": "Nintendo",
+      "model": "R.O.B.",
+      "referenceValue": 230,
+      "rationale": "Curated fictional-dollar baseline for a standard used Nintendo R.O.B.. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/R.O.B."
+    },
+    {
+      "id": "milton-bradley-simon",
+      "brand": "Milton Bradley",
+      "model": "Simon",
+      "referenceValue": 65,
+      "rationale": "Curated fictional-dollar baseline for a standard used Milton Bradley Simon. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Simon_(game)"
+    },
+    {
+      "id": "ohio-art-etch-a-sketch",
+      "brand": "Ohio Art",
+      "model": "Etch A Sketch",
+      "referenceValue": 45,
+      "rationale": "Curated fictional-dollar baseline for a standard used Ohio Art Etch A Sketch. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Etch_A_Sketch"
+    },
+    {
+      "id": "view-master-model-g",
+      "brand": "View-Master",
+      "model": "Model G",
+      "referenceValue": 50,
+      "rationale": "Curated fictional-dollar baseline for a standard used View-Master Model G. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/View-Master"
+    },
+    {
+      "id": "lego-mindstorms-nxt",
+      "brand": "LEGO",
+      "model": "Mindstorms NXT",
+      "referenceValue": 180,
+      "rationale": "Curated fictional-dollar baseline for a standard used LEGO Mindstorms NXT. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT"
+    },
+    {
+      "id": "sony-cyber-shot-dsc-f717",
+      "brand": "Sony",
+      "model": "Cyber-shot DSC-F717",
+      "referenceValue": 120,
+      "rationale": "Curated fictional-dollar baseline for a standard used Sony Cyber-shot DSC-F717. Selected for game balance; not an observed transaction, live quote, or guaranteed resale value.",
+      "identitySource": "https://en.wikipedia.org/wiki/Sony_Cyber-shot_DSC-F717"
+    }
+  ]
+}

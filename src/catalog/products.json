@@ -1,0 +1,802 @@
+[
+  {
+    "id": "canon-5d-ii",
+    "brand": "Canon",
+    "model": "EOS 5D Mark II",
+    "year": "2008",
+    "category": "Photography",
+    "referenceValue": 340,
+    "description": "A full-frame DSLR with a 21 MP sensor. Body only; the reference photo includes a lens that is not part of this lot.",
+    "completeness": "Body, battery and charger; no lens",
+    "image": {
+      "title": "File:Canon EOS 5D Mark II with 50mm 1.4 edit1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg",
+      "description": "Canon EOS 5D Mark II camera, with Canon EF 50mm f/1.4 USM lens (fitted with a B+W 010 UV-Haze 58mm filter).",
+      "artist": "Charles Lanteigne; edited by jjron (increased canvas size)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Used body-only baseline; mature DSLR demand and battery/charger included. A pictured lens is excluded."
+  },
+  {
+    "id": "nikon-d7000",
+    "brand": "Nikon",
+    "model": "D7000",
+    "year": "2010",
+    "category": "Photography",
+    "referenceValue": 220,
+    "description": "A 16 MP DX-format DSLR. Body only; the lens in the reference photo is excluded.",
+    "completeness": "Body, battery and charger; no lens",
+    "image": {
+      "title": "File:Nikon D7000+18-105 Lens.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nikon_D7000%2B18-105_Lens.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nikon_D7000%2B18-105_Lens.jpg",
+      "description": "Nikon D7000 Digital SLR Camera with AF-S DX 18-105mm f/3.5-5.6G ED VR Lens (2010)",
+      "artist": "\u00a9 Bill Bertram (Pixel8) 2011",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Used body-only baseline; no lens, no retail warranty, ordinary production model."
+  },
+  {
+    "id": "sony-a6000",
+    "brand": "Sony",
+    "model": "Alpha a6000",
+    "year": "2014",
+    "category": "Photography",
+    "referenceValue": 509,
+    "description": "Compact interchangeable-lens camera with an electronic viewfinder. Body only.",
+    "completeness": "Body, battery and charger; no lens",
+    "image": {
+      "title": "File:Sony Alpha ILCE-6000 APS-C-frame camera with body cap.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Sony_Alpha_ILCE-6000_APS-C-frame_camera_with_body_cap.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sony_Alpha_ILCE-6000_APS-C-frame_camera_with_body_cap.jpeg",
+      "description": "Sony Alpha ILCE-6000 APS-C-frame camera (mirrorless interchangeable-lens camera).",
+      "artist": "J\u00fcrgenMatern",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Median of three observed MPB asking examples ($529, $509, $504). Asking prices include retailer warranty; these are not completed sales."
+  },
+  {
+    "id": "fujifilm-x100",
+    "brand": "Fujifilm",
+    "model": "FinePix X100",
+    "year": "2011",
+    "category": "Photography",
+    "referenceValue": 597,
+    "description": "The original X100 with a fixed 23 mm f/2 lens and hybrid viewfinder.",
+    "completeness": "Camera, fixed lens, battery and charger",
+    "image": {
+      "title": "File:Fujifilm X100 001.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fujifilm_X100_001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fujifilm_X100_001.jpg",
+      "description": "Fujifilm X100, Ansicht vorne",
+      "artist": "Nienetwiler",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Rounded median of six observed MPB good-condition asking listings: $619, $599, $599, $594, $594, $554. Asking prices include retailer warranty; these are not completed sales."
+  },
+  {
+    "id": "olympus-em10-ii",
+    "brand": "Olympus",
+    "model": "OM-D E-M10 Mark II",
+    "year": "2015",
+    "category": "Photography",
+    "referenceValue": 300,
+    "description": "A small Micro Four Thirds camera with in-body stabilisation. Body only; any pictured lens is excluded.",
+    "completeness": "Body, battery and charger; no lens",
+    "image": {
+      "title": "File:Olympus OM-D E-M10 Mark II.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Olympus_OM-D_E-M10_Mark_II.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Olympus_OM-D_E-M10_Mark_II.JPG",
+      "description": "Olympus OM-D E-M10 Mark II digital camera",
+      "artist": "Alvintrusty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used body-only baseline; common second-generation mirrorless body with essential power accessories."
+  },
+  {
+    "id": "panasonic-gf1",
+    "brand": "Panasonic",
+    "model": "Lumix DMC-GF1",
+    "year": "2009",
+    "category": "Photography",
+    "referenceValue": 150,
+    "description": "A compact Micro Four Thirds camera. Body only; the pictured lens and external viewfinder are excluded.",
+    "completeness": "Body, battery and charger; no lens",
+    "image": {
+      "title": "File:Panasonic Lumix GF1 img 3537.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Panasonic_Lumix_GF1_img_3537.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panasonic_Lumix_GF1_img_3537.jpg",
+      "description": "Panasonic Lumix DMC-GF1",
+      "artist": "Rama",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en"
+    },
+    "rationale": "Used body-only baseline reflecting an older sensor and limited video features; no lens or box premium."
+  },
+  {
+    "id": "canon-ae1-program",
+    "brand": "Canon",
+    "model": "AE-1 Program",
+    "year": "1981",
+    "category": "Photography",
+    "referenceValue": 180,
+    "description": "Manual-focus 35 mm film SLR with program exposure. Body only; film is not supplied.",
+    "completeness": "Body and cap; no lens or film",
+    "image": {
+      "title": "File:Canon AE-1 Program D Barthel.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Canon_AE-1_Program_D_Barthel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Canon_AE-1_Program_D_Barthel.jpg",
+      "description": "Canon AE-1 Program Body",
+      "artist": "Denis Barthel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used body-only baseline; common enthusiast film body. Function and light-seal inspection affect its game appraisal."
+  },
+  {
+    "id": "nikon-f50",
+    "brand": "Nikon",
+    "model": "F50 + 28\u201380 mm",
+    "year": "1994",
+    "category": "Photography",
+    "referenceValue": 85,
+    "description": "Autofocus 35 mm film SLR with the pictured 28\u201380 mm f/3.3\u20135.6G lens.",
+    "completeness": "Body and 28\u201380 mm lens; no film",
+    "image": {
+      "title": "File:Nikon F50 5914.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nikon_F50_5914.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nikon_F50_5914.jpeg",
+      "description": "A Nikon F50 fitted with a Nikon 28-80mm f/3.3-5.6G.",
+      "artist": "No machine-readable author provided. Ashley Pomeroy assumed (based on copyright claims).",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "rationale": "Entry-level autofocus film kit baseline, including an ordinary consumer zoom rather than a rare lens."
+  },
+  {
+    "id": "polaroid-sx70",
+    "brand": "Polaroid",
+    "model": "SX-70",
+    "year": "1972 model",
+    "category": "Photography",
+    "referenceValue": 230,
+    "description": "Folding instant camera with a leather-style exterior. Film and service history matter.",
+    "completeness": "Camera only; no film",
+    "image": {
+      "title": "File:Polaroid SX-70 (4462345243).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Polaroid_SX-70_%284462345243%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Polaroid_SX-70_(4462345243).jpg",
+      "description": "My Polaroid SX-70 which I found at a flea market a few years ago. I thought I paid much for this obsolete beast at the time, 20\u20ac. But when I checked on ebay a few days ago people are paying up to 100USD for them.",
+      "artist": "Thomas Backa from Turku, Finland",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "rationale": "Used folding-camera baseline without film or a restoration warranty; motor and exposure testing carry a substantial adjustment."
+  },
+  {
+    "id": "minolta-x700",
+    "brand": "Minolta",
+    "model": "X-700",
+    "year": "1981",
+    "category": "Photography",
+    "referenceValue": 165,
+    "description": "A program-exposure 35 mm film SLR. Body only; any pictured lens is excluded.",
+    "completeness": "Body and cap; no lens or film",
+    "image": {
+      "title": "File:Minolta X-700 front.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Minolta_X-700_front.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Minolta_X-700_front.jpg",
+      "description": "Minolta X-700 front",
+      "artist": "Frank Markesteijn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used body-only baseline with no collector-edition premium; capacitor and exposure checks affect value."
+  },
+  {
+    "id": "nintendo-switch",
+    "brand": "Nintendo",
+    "model": "Switch HAC-001",
+    "year": "2017",
+    "category": "Gaming",
+    "referenceValue": 190,
+    "description": "Original hybrid console with neon Joy-Con controllers and a dock. No games or subscriptions.",
+    "completeness": "Console, two Joy-Con, dock and power adapter",
+    "image": {
+      "title": "File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nintendo-Switch-Console-Docked-wJoyConRB.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg",
+      "description": "The Nintendo Switch, a hybrid portable/home console released by Nintendo in 2017. It is shown here in the docked/home mode, with the controllers detached from the main unit and in the included grip.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Unboxed original-model used bundle baseline; predates OLED and Switch 2 and includes no games."
+  },
+  {
+    "id": "nintendo-gameboy",
+    "brand": "Nintendo",
+    "model": "Game Boy DMG-01",
+    "year": "1989",
+    "category": "Gaming",
+    "referenceValue": 110,
+    "description": "Original monochrome handheld. Standard grey shell, without boxed-game premiums.",
+    "completeness": "Handheld and battery cover; no games",
+    "image": {
+      "title": "File:Game-Boy-FL.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Game-Boy-FL.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.png",
+      "description": "The Nintendo Game Boy, a handheld gaming console released in 1989.  The relatively simple and monochrome Game Boy faced off against multiple handhelds and dominated the portable gaming market for almost a decade.  This system has a 4.19 MHz CPU, a 4-shade LCD and ran off of 4 AA batteries.  It was a very long-running system, only seeing a minor upgrade with the Game Boy Pocket in 1996, then later the Game Boy Color and the Japan-only Game Boy Light in 1998.",
+      "artist": "Transfrom JPEG version and remove white background. Original by Evan-Amos.",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Unboxed common-colour handheld baseline; screen lines, contacts and original shell condition determine adjustments."
+  },
+  {
+    "id": "nintendo-ds-lite",
+    "brand": "Nintendo",
+    "model": "DS Lite",
+    "year": "2006",
+    "category": "Gaming",
+    "referenceValue": 75,
+    "description": "Dual-screen handheld in black. Hinge and touch-screen condition are worth checking.",
+    "completeness": "Console, stylus and charger; no games",
+    "image": {
+      "title": "File:Nintendo-DS-Lite-Black-Open.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nintendo-DS-Lite-Black-Open.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nintendo-DS-Lite-Black-Open.jpg",
+      "description": "A black Nintendo DS Lite, shown open.",
+      "artist": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Ordinary black unboxed unit baseline with charger and stylus; no limited-edition premium."
+  },
+  {
+    "id": "nintendo-3ds",
+    "brand": "Nintendo",
+    "model": "3DS CTR-001",
+    "year": "2011",
+    "category": "Gaming",
+    "referenceValue": 140,
+    "description": "Original-size Aqua Blue 3DS with glasses-free 3D. No digital account or games transferred.",
+    "completeness": "Console, stylus and charger",
+    "image": {
+      "title": "File:Nintendo-3DS-AquaOpen.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nintendo-3DS-AquaOpen.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Nintendo-3DS-AquaOpen.png",
+      "description": "A Nintendo 3DS in Aqua Blue, photo taken during the 3DS launch event in NYC.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Original model baseline, below later New 3DS models; software/account value is excluded."
+  },
+  {
+    "id": "sony-ps2-slim",
+    "brand": "Sony",
+    "model": "PlayStation 2 Slim SCPH-70001",
+    "year": "2004",
+    "category": "Gaming",
+    "referenceValue": 100,
+    "description": "Slim PlayStation 2 with a wired controller. Disc reading is a material inspection point.",
+    "completeness": "Console, controller, power and AV leads; no games",
+    "image": {
+      "title": "File:Sony-PlayStation-2-70001-Console-FL.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sony-PlayStation-2-70001-Console-FL.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-70001-Console-FL.jpg",
+      "description": "The Sony PlayStation 2 (also known as the \"PS2\") video game console, first released in 2000.  The successor to the enormously successful PlayStation console, Sony's second system continued the trend and surpassed it to become the best-selling consoles of all time.  This is a SCPH-70001 model, a version of the second model released (the \"slim\") that was drastically reduced in size and added a built-in broadband connection and removed the expansion bay.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Common North American slim-console used bundle baseline, no games or original packaging."
+  },
+  {
+    "id": "sony-psp",
+    "brand": "Sony",
+    "model": "PlayStation Portable PSP-1000",
+    "year": "2004",
+    "category": "Gaming",
+    "referenceValue": 105,
+    "description": "Original PSP handheld with UMD drive. No games, modified firmware, or account value included.",
+    "completeness": "Console, battery and charger; no games",
+    "image": {
+      "title": "File:PSP-1000.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PSP-1000.png",
+      "source": "https://commons.wikimedia.org/wiki/File:PSP-1000.png",
+      "description": "Original model of PlayStation Portable (PSP-1000) console.",
+      "artist": "Psp-1000.jpg: Evan-Amos\nderivative work: Alphathon\u2122\u00a0(talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Common original-model unboxed baseline with working battery; battery ageing and UMD reading are material."
+  },
+  {
+    "id": "xbox-360-pro",
+    "brand": "Microsoft",
+    "model": "Xbox 360 Pro 20 GB",
+    "year": "2005",
+    "category": "Gaming",
+    "referenceValue": 95,
+    "description": "Original white Xbox 360 Pro with a wireless controller. Reliability testing is important.",
+    "completeness": "Console, 20 GB drive, controller, power and AV leads",
+    "image": {
+      "title": "File:Xbox-360-Pro-wController.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Xbox-360-Pro-wController.jpg",
+      "description": "The Xbox 360, a video game console released by Microsoft in 2005.  This is the \"Pro\" model from the launch line-up, which featured a 20GB hard drive, wireless controller and a silver DVD bezel.  The production date of this unit is 2005-11-05, making it a very early unit.  Of note is the gray on the hard drive at the top, which is very shiny and silvery.  This was changed to a matte gray in later models.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Original 20 GB used-console bundle baseline; repair history and heat stability create meaningful discounts."
+  },
+  {
+    "id": "macintosh-classic",
+    "brand": "Apple",
+    "model": "Macintosh Classic",
+    "year": "1990",
+    "category": "Computing",
+    "referenceValue": 350,
+    "description": "Compact monochrome Macintosh. Storage, display and board servicing are significant risks.",
+    "completeness": "Computer, keyboard, mouse and power cable",
+    "image": {
+      "title": "File:Macintosh classic.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Macintosh_classic.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Macintosh_classic.jpg",
+      "description": "Apple Macintosh Classic photographed by Alexander Schaelss on 15 April 2004.",
+      "artist": "Alexander Schaelss",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "rationale": "Common compact-Mac used baseline with peripherals; no box or rare-software premium, and no guaranteed recap service."
+  },
+  {
+    "id": "commodore-64",
+    "brand": "Commodore",
+    "model": "64 breadbin",
+    "year": "1982",
+    "category": "Computing",
+    "referenceValue": 220,
+    "description": "The original breadbin-style 8-bit computer. Power supply and keyboard tests matter.",
+    "completeness": "Computer and tested replacement power adapter; no display",
+    "image": {
+      "title": "File:Commodore-64-Computer-FL.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Commodore-64-Computer-FL.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-FL.jpg",
+      "description": "A Commodore 64, an 8-bit home computer introduced in 1982 by Commodore International. Its low retail price and easy availability led to the system becoming the market leader for three years. It remains the best-selling single personal computer model of all time.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Common breadbin baseline with safer replacement power adapter; no disk drive, games or original packaging."
+  },
+  {
+    "id": "raspberry-pi4",
+    "brand": "Raspberry Pi",
+    "model": "4 Model B 4 GB",
+    "year": "2019",
+    "category": "Computing",
+    "referenceValue": 55,
+    "description": "Single-board computer supplied as a board, not a complete desktop system.",
+    "completeness": "4 GB board, USB-C supply and 32 GB microSD; no display",
+    "image": {
+      "title": "File:Raspberry Pi 4 Model B - Top.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry_Pi_4_Model_B_-_Top.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Raspberry_Pi_4_Model_B_-_Top.jpg",
+      "description": "Raspberry Pi 4 Model B von Oben.",
+      "artist": "Laserlicht",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used 4 GB board bundle baseline; modest accessory allowance, no case, heatsink or display premium."
+  },
+  {
+    "id": "sony-wh1000xm3",
+    "brand": "Sony",
+    "model": "WH-1000XM3",
+    "year": "2018",
+    "category": "Audio",
+    "referenceValue": 110,
+    "description": "Wireless over-ear headphones with active noise cancellation. Battery health and pads affect value.",
+    "completeness": "Headphones, case, USB cable and audio lead",
+    "image": {
+      "title": "File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg",
+      "description": "Sony WH-1000XM3 wireless bluetooth headset with active noise cancelling",
+      "artist": "www.digitalpush.net",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "rationale": "Used older-generation ANC headphones baseline with case; no factory warranty or sealed-box premium."
+  },
+  {
+    "id": "technics-sl1200",
+    "brand": "Technics",
+    "model": "SL-1200MK2",
+    "year": "1979 model",
+    "category": "Audio",
+    "referenceValue": 650,
+    "description": "Direct-drive turntable with pitch control. Cartridge and calibration are not minor details.",
+    "completeness": "Turntable, dust cover and basic cartridge; no amplifier",
+    "image": {
+      "title": "File:Technics SL-1200MK2-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Technics_SL-1200MK2-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Technics_SL-1200MK2-2.jpg",
+      "description": "Technics SL-1200MK2 turntable in a natural environment.",
+      "artist": "derivative work: 32bitmaschine (talk)\nTechnics_SL-1200MK2.jpg: Dydric",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    "rationale": "Used single-turntable baseline with ordinary cartridge; no matched-pair, rare-finish or professional-service premium."
+  },
+  {
+    "id": "audio-technica-m50",
+    "brand": "Audio-Technica",
+    "model": "ATH-M50",
+    "year": "2007 model",
+    "category": "Audio",
+    "referenceValue": 65,
+    "description": "Original wired ATH-M50 monitor headphones. This is the earlier fixed-cable model, not the M50x.",
+    "completeness": "Headphones and attached cable; no case",
+    "image": {
+      "title": "File:Audio Technica ATH-M50 Headphones.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Audio_Technica_ATH-M50_Headphones.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Audio_Technica_ATH-M50_Headphones.jpg",
+      "description": "Audio Technica ATH-M50 headphones",
+      "artist": "Fletcher6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "rationale": "Older fixed-cable model used baseline, below a new M50x; pad wear and cable continuity are material."
+  },
+  {
+    "id": "casio-f91w",
+    "brand": "Casio",
+    "model": "F-91W-1",
+    "year": "Standard black",
+    "category": "Watches",
+    "referenceValue": 25,
+    "description": "Lightweight resin digital watch with alarm and stopwatch. An everyday model, not a rare edition.",
+    "completeness": "Watch and resin strap; no box",
+    "image": {
+      "title": "File:Casio F-91W 5051.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Casio_F-91W_5051.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Casio_F-91W_5051.jpg",
+      "description": "A Casio F-91W (2013)",
+      "artist": "Ashley Pomeroy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Curated used baseline below the observed $29.95 official US retail listing; standard black version."
+  },
+  {
+    "id": "seiko-skx007",
+    "brand": "Seiko",
+    "model": "SKX007",
+    "year": "7S26 generation",
+    "category": "Watches",
+    "referenceValue": 340,
+    "description": "Automatic diver on a rubber strap. Water resistance is not guaranteed without a pressure-test record.",
+    "completeness": "Watch and rubber strap; no box or papers",
+    "image": {
+      "title": "File:Seiko SKX007.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seiko_SKX007.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Seiko_SKX007.jpg",
+      "description": "A Seiko SKX007 automatic wristwatch. Shot with a Leica 60mm f/2.8 Macro-Elmarit-R with a Leitax R-EOS mount. The watch is running; close inspection shows the second hand's individual steps.",
+      "artist": "Ashley Pomeroy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used no-papers baseline for a common discontinued diver; no rarity premium, pressure certification or recent-service assumption."
+  },
+  {
+    "id": "seiko-snk809",
+    "brand": "Seiko",
+    "model": "5 SNK809",
+    "year": "7S26 generation",
+    "category": "Watches",
+    "referenceValue": 100,
+    "description": "Compact automatic field watch with a black dial. Service history is unrecorded publicly.",
+    "completeness": "Watch and fabric strap; no box or papers",
+    "image": {
+      "title": "File:Seiko SNK809.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Seiko_SNK809.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Seiko_SNK809.jpg",
+      "description": "Reloj Seiko modelo SNK809",
+      "artist": "Soulreaper",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Used common field-watch baseline; strap and movement health matter more than packaging."
+  },
+  {
+    "id": "tissot-prx",
+    "brand": "Tissot",
+    "model": "PRX quartz 40 mm",
+    "year": "2021 generation",
+    "category": "Watches",
+    "referenceValue": 290,
+    "description": "Integrated-bracelet quartz PRX. This lot is the quartz model, not the Powermatic automatic.",
+    "completeness": "Watch and bracelet; no box or papers",
+    "image": {
+      "title": "File:Tissot PRX.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Tissot_PRX.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tissot_PRX.jpg",
+      "description": "Tissot PRX",
+      "artist": "Clyde94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Curated used baseline discounted from the observed $450 official 40 mm quartz retail reference; no automatic-movement premium."
+  },
+  {
+    "id": "squier-affinity",
+    "brand": "Squier",
+    "model": "Affinity Series Stratocaster",
+    "year": "Standard SSS",
+    "category": "Music",
+    "referenceValue": 180,
+    "description": "Three-single-coil Stratocaster from Fender\u2019s entry-level Squier line. No amplifier included.",
+    "completeness": "Guitar only; no case or amplifier",
+    "image": {
+      "title": "File:Squier Affinity Series Strat.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Squier_Affinity_Series_Strat.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Squier_Affinity_Series_Strat.png",
+      "description": "Picture of a golden Squier Affinity Series Strat with transparent background.",
+      "artist": "Erlebnisgarnele",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Curated used baseline below the observed $319.99 official new Affinity Stratocaster reference; ordinary production guitar."
+  },
+  {
+    "id": "korg-microkorg",
+    "brand": "Korg",
+    "model": "microKORG",
+    "year": "Original 2002 model",
+    "category": "Music",
+    "referenceValue": 250,
+    "description": "Compact virtual-analog synthesizer and vocoder. Key contacts and the microphone deserve inspection.",
+    "completeness": "Synthesizer, power adapter and gooseneck microphone",
+    "image": {
+      "title": "File:Microkorg.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Microkorg.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Microkorg.jpg",
+      "description": "Micro Korg synthesizer/vocoder",
+      "artist": "F J Degenaar",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Used original-model baseline; no XL, microKORG 2, rare finish or software-library premium."
+  },
+  {
+    "id": "boss-ds1",
+    "brand": "Boss",
+    "model": "DS-1 Distortion",
+    "year": "Taiwan production",
+    "category": "Music",
+    "referenceValue": 45,
+    "description": "Standard orange distortion pedal. An ordinary Taiwan-made version, not a vintage Japanese collector example.",
+    "completeness": "Pedal only; no power adapter",
+    "image": {
+      "title": "File:Boss DS-1 On.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Boss_DS-1_On.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boss_DS-1_On.jpg",
+      "description": "Boss DS-1 made in Taiwan in March 2004, turned on",
+      "artist": "Roadside Guitars",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "rationale": "Common used Taiwan-production pedal baseline; no vintage circuit, anniversary edition or box premium."
+  },
+  {
+    "id": "adidas-stan-smith",
+    "brand": "Adidas",
+    "model": "Stan Smith white/green",
+    "year": "Standard adult pair",
+    "category": "Fashion",
+    "referenceValue": 55,
+    "description": "White and green leather-style low-top trainers. Standard retail edition without a rarity premium.",
+    "completeness": "Pair, standard laces; no box",
+    "image": {
+      "title": "File:Stan Smith white and green.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Stan_Smith_white_and_green.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Stan_Smith_white_and_green.png",
+      "description": "Adidas Stan Smith, original white and green version",
+      "artist": "Raizin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Curated lightly-used standard-pair baseline; no collaboration premium, resale hype or new-in-box assumption."
+  },
+  {
+    "id": "converse-allstar",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star high-top",
+    "year": "Standard black pair",
+    "category": "Fashion",
+    "referenceValue": 50,
+    "description": "Black canvas high-tops with white rubber trim. Standard pair, not an artist collaboration.",
+    "completeness": "Pair and laces; no box",
+    "image": {
+      "title": "File:Black Converse sneakers.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Black_Converse_sneakers.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Black_Converse_sneakers.JPG",
+      "description": "A pair of black Converse sneakers",
+      "artist": "Brooke Fishwick",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Curated lightly-used standard-pair baseline; common edition and no box or collectible-size premium."
+  },
+  {
+    "id": "herman-miller-aeron",
+    "brand": "Herman Miller",
+    "model": "Aeron Classic",
+    "year": "Original design",
+    "category": "Home",
+    "referenceValue": 500,
+    "description": "Mesh office chair from the original Aeron family. Cylinder and adjustment function materially affect resale.",
+    "completeness": "Chair and installed casters; no receipt",
+    "image": {
+      "title": "File:Aeron chair Brooklyn Museum.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aeron_chair_Brooklyn_Museum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aeron_chair_Brooklyn_Museum.jpg",
+      "description": "An Aeron chair at the Brooklyn Museum.",
+      "artist": "Brooklyn Museum",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "rationale": "Used original-generation chair baseline, not a new Remastered chair; no delivery or warranty allowance."
+  },
+  {
+    "id": "kitchenaid-artisan",
+    "brand": "KitchenAid",
+    "model": "Artisan KSM150PSWH",
+    "year": "5-quart tilt-head",
+    "category": "Home",
+    "referenceValue": 230,
+    "description": "White five-quart tilt-head stand mixer. Bowl and standard mixing tools are included unless inspection notes otherwise.",
+    "completeness": "Mixer, bowl, flat beater, dough hook and whisk",
+    "image": {
+      "title": "File:White KitchenAid mixer (KSM150PSWH).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/White_KitchenAid_mixer_%28KSM150PSWH%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:White_KitchenAid_mixer_(KSM150PSWH).jpg",
+      "description": "KitchenAid mixer (model KSM150PSWH).",
+      "artist": "Your Best Digs",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "rationale": "Used five-quart household mixer baseline with standard tools; no specialty attachments or factory-refurbishment warranty."
+  },
+  {
+    "id": "bialetti-moka",
+    "brand": "Bialetti",
+    "model": "Moka Express",
+    "year": "Aluminium stovetop",
+    "category": "Home",
+    "referenceValue": 35,
+    "description": "A classic aluminium stovetop coffee maker. Standard production; size is not independently verified.",
+    "completeness": "Pot, funnel and filter assembly; no box",
+    "image": {
+      "title": "File:Moka Express Bialetti.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Moka_Express_Bialetti.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Moka_Express_Bialetti.png",
+      "description": "Eccellente esempio di Art Deco, la Moka ha un design che \u00e8 stato perfezionato negli anni per rendere quest\u2019icona uno strumento sempre pi\u00f9 ergonomico e dalle forme eleganti, mantenendo per\u00f2 le stesse carettistiche funzionali che l'hanno resa perfetta nella sua essenzialit\u00e0: il raccogliotore e la caldaia ottagonale in alluminio e l'esclusiva valvola ispezionabile e di facile pulizia.",
+      "artist": "Bialetti Industrie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rationale": "Curated used standard-model estimate. No verified transaction comparables are available; common household item, no box or special edition premium."
+  },
+  {
+    "id": "wilson-prostaff",
+    "brand": "Wilson",
+    "model": "Pro Staff 6.0",
+    "year": "Original-style 85",
+    "category": "Sports",
+    "referenceValue": 180,
+    "description": "Graphite-and-Kevlar-era Pro Staff racquet. No player signature or match-used provenance is claimed.",
+    "completeness": "Racquet and installed strings; no cover",
+    "image": {
+      "title": "File:Prostaff Pic.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Prostaff_Pic.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prostaff_Pic.jpg",
+      "description": "A Pro Staff 6.0 (identical, except for its branding, to the Pro Staff Original). Note the lead taping placed at 3 and 9 o'clock to further increase weight and stability, as well as at 12 for added swingweight. This racquet has been strung with graphite strings. At the bottom of the stringbed is a Pete Sampras vibration dampener.",
+      "artist": "Naturalgut",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "rationale": "Used standard racquet baseline without autographs or athlete provenance; frame cracks, grommets and string life affect value."
+  },
+  {
+    "id": "nintendo-nes",
+    "brand": "Nintendo",
+    "model": "Entertainment System",
+    "year": "Front-loading NES",
+    "category": "Gaming",
+    "referenceValue": 120,
+    "description": "Original front-loading NES with one controller. Cartridge connector health is worth checking.",
+    "completeness": "Console, controller, power and AV leads; no games",
+    "image": {
+      "title": "File:NES-Console-Set.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NES-Console-Set.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg",
+      "description": "A Nintendo Entertainment System video game console with controller attached.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Unboxed common-console bundle baseline; no games, original packaging or limited-edition premium."
+  },
+  {
+    "id": "nintendo-snes",
+    "brand": "Nintendo",
+    "model": "Super Nintendo",
+    "year": "North American model",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "description": "North American Super Nintendo with one wired controller. No game cartridges included.",
+    "completeness": "Console, controller, power and AV leads; no games",
+    "image": {
+      "title": "File:SNES-Mod1-Console-Set.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/SNES-Mod1-Console-Set.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.jpg",
+      "description": "A Super Nintendo Entertainment System (SNES or Super NES) video game console, shown with standard controller.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Unboxed common North American console baseline; shell yellowing and cartridge reading are material."
+  },
+  {
+    "id": "nintendo-gamecube",
+    "brand": "Nintendo",
+    "model": "GameCube DOL-001",
+    "year": "Indigo",
+    "category": "Gaming",
+    "referenceValue": 130,
+    "description": "Indigo GameCube with a wired controller and memory card. No games included.",
+    "completeness": "Console, controller, memory card, power and AV leads",
+    "image": {
+      "title": "File:GameCube-Set.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/GameCube-Set.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:GameCube-Set.jpg",
+      "description": "A purple Nintendo GameCube console shown with a Memory Card 251 and standard controller. The GameCube is Nintendo's sixth-generation console and the successor to the Nintendo 64.  Released in 2001, the GameCube competed mainly with Sony's PlayStation 2 and Microsoft's Xbox and sold approximately 22 million consoles worldwide.  Popular games for the system include Super Mario Sunshine, The Legend of Zelda: The Wind Waker, Mario Kart: Double Dash and Super Smash Bros. Melee.  The GameCube was succeeded by the Wii in 2006.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Unboxed ordinary-colour system baseline; working optical drive and original controller assumed before inspection discounts."
+  },
+  {
+    "id": "sega-genesis",
+    "brand": "Sega",
+    "model": "Genesis Model 1",
+    "year": "16-bit North American",
+    "category": "Gaming",
+    "referenceValue": 95,
+    "description": "First-model Genesis with a three-button controller. No game cartridges included.",
+    "completeness": "Console, controller, power and AV leads; no games",
+    "image": {
+      "title": "File:Sega-Genesis-Mod1-Set.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sega-Genesis-Mod1-Set.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Sega-Genesis-Mod1-Set.png",
+      "description": "A Sega Genesis, this is a model 1 version with a three button controller.  This is the PNG version.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "rationale": "Common Model 1 unboxed console bundle baseline; no rare revision, games or packaging premium."
+  }
+]

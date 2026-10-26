@@ -1,0 +1,53 @@
+{
+  "name": "black-market",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "lint": "eslint .",
+    "dev:web": "next dev --hostname 0.0.0.0",
+    "server": "node --env-file-if-exists=.env --import tsx server/index.ts",
+    "db:dev": "tsx scripts/db-dev.ts",
+    "test:online": "ONLINE_TEST=1 tsx --test tests/online-v2.test.ts tests/rooms-online.test.ts",
+    "test:db": "TEST_DATABASE=1 tsx --test tests/progression-v2.test.ts",
+    "test:queue": "QUEUE_TEST=1 tsx --test tests/queue-online-v2.test.ts",
+    "db:migrate": "node --env-file-if-exists=.env --import tsx scripts/db-init.ts"
+  },
+  "dependencies": {
+    "@colyseus/schema": "^5.0.42",
+    "@colyseus/sdk": "^0.18.6",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "drizzle-orm": "^0.45.4",
+    "express": "^5.3.0",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "pg": "^8.23.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zod": "^4.6.7",
+    "tsx": "^4.20.0",
+    "@colyseus/core": "^0.18.23",
+    "@colyseus/ws-transport": "^0.18.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.3"
+  },
+  "type": "module"
+}

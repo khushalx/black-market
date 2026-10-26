@@ -1,0 +1,384 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "redirects": [
+      {
+        "from": "Nintendo DS Lite",
+        "to": "Nintendo DS",
+        "tofragment": "DS Lite"
+      },
+      {
+        "from": "Squier Stratocaster",
+        "to": "Fender Stratocaster"
+      },
+      {
+        "from": "Epiphone Les Paul",
+        "to": "Gibson Les Paul"
+      },
+      {
+        "from": "Roland TR-8",
+        "to": "Roland TR-808"
+      },
+      {
+        "from": "Seiko 5",
+        "to": "Seiko",
+        "tofragment": "Seiko 5"
+      },
+      {
+        "from": "Casio G-Shock",
+        "to": "G-Shock"
+      },
+      {
+        "from": "Swatch Sistem51",
+        "to": "Swatch",
+        "tofragment": "Swatch Sistem51"
+      },
+      {
+        "from": "Bose headphones",
+        "to": "List of Bose headphones"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 0,
+        "title": "Sony WH-1000XM3",
+        "missing": ""
+      },
+      "-2": {
+        "ns": 0,
+        "title": "Audio-Technica ATH-M50x",
+        "missing": ""
+      },
+      "-3": {
+        "ns": 0,
+        "title": "Seiko SKX007",
+        "missing": ""
+      },
+      "-4": {
+        "ns": 0,
+        "title": "Tissot PRX",
+        "missing": ""
+      },
+      "-5": {
+        "ns": 0,
+        "title": "Yamaha FG800",
+        "missing": ""
+      },
+      "-6": {
+        "ns": 0,
+        "title": "Wilson Pro Staff",
+        "missing": ""
+      },
+      "10073962": {
+        "pageid": 10073962,
+        "ns": 0,
+        "title": "Adidas Stan Smith",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Stan_Smith_white_and_green.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 720,
+          "height": 366
+        }
+      },
+      "65535": {
+        "pageid": 65535,
+        "ns": 0,
+        "title": "Aeron chair",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aeron_chair_Brooklyn_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1152,
+          "height": 1536
+        }
+      },
+      "1394509": {
+        "pageid": 1394509,
+        "ns": 0,
+        "title": "Air Jordan"
+      },
+      "2172744": {
+        "pageid": 2172744,
+        "ns": 0,
+        "title": "Boss DS-1",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Boss_DS-1_On.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2072,
+          "height": 2617
+        }
+      },
+      "4625977": {
+        "pageid": 4625977,
+        "ns": 0,
+        "title": "Casio F-91W",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Casio_F-91W_5051.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3393,
+          "height": 5000
+        }
+      },
+      "1667713": {
+        "pageid": 1667713,
+        "ns": 0,
+        "title": "Chuck Taylor All-Stars",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Black_Converse_sneakers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3872,
+          "height": 2592
+        }
+      },
+      "7293": {
+        "pageid": 7293,
+        "ns": 0,
+        "title": "Commodore 64",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Commodore-64-Computer-FL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4600,
+          "height": 2600
+        }
+      },
+      "29036": {
+        "pageid": 29036,
+        "ns": 0,
+        "title": "Dreamcast",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dreamcast_logo_Japan.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1000,
+          "height": 756
+        }
+      },
+      "5591552": {
+        "pageid": 5591552,
+        "ns": 0,
+        "title": "Game Boy",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Game-Boy-FL.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2820,
+          "height": 3420
+        }
+      },
+      "13111157": {
+        "pageid": 13111157,
+        "ns": 0,
+        "title": "IPod Classic",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/6G_iPod.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 443,
+          "height": 729
+        }
+      },
+      "425160": {
+        "pageid": 425160,
+        "ns": 0,
+        "title": "IPod Mini",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mini_iPod.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 557,
+          "height": 1009
+        }
+      },
+      "3481492": {
+        "pageid": 3481492,
+        "ns": 0,
+        "title": "KitchenAid"
+      },
+      "2895287": {
+        "pageid": 2895287,
+        "ns": 0,
+        "title": "Le Creuset",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/20151003%EB%83%84%EB%B9%84RX10DSC03006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4988,
+          "height": 3648
+        }
+      },
+      "128158": {
+        "pageid": 128158,
+        "ns": 0,
+        "title": "Macintosh Classic",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Macintosh_classic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 600,
+          "height": 513
+        }
+      },
+      "1423388": {
+        "pageid": 1423388,
+        "ns": 0,
+        "title": "Marshall Amplification",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/MarshallStack_Slayer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2448,
+          "height": 1602
+        }
+      },
+      "2125183": {
+        "pageid": 2125183,
+        "ns": 0,
+        "title": "MicroKORG"
+      },
+      "5964683": {
+        "pageid": 5964683,
+        "ns": 0,
+        "title": "Moka pot",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Moka_Express_Bialetti.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1126,
+          "height": 1294
+        }
+      },
+      "26666629": {
+        "pageid": 26666629,
+        "ns": 0,
+        "title": "Nintendo 3DS",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nintendo-3DS-AquaOpen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2300,
+          "height": 2080
+        }
+      },
+      "45710549": {
+        "pageid": 45710549,
+        "ns": 0,
+        "title": "Nintendo Switch",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nintendo_Switch_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 512,
+          "height": 512
+        }
+      },
+      "15822958": {
+        "pageid": 15822958,
+        "ns": 0,
+        "title": "PlayStation 2",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sony_PlayStation_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1760,
+          "height": 1091
+        }
+      },
+      "619009": {
+        "pageid": 619009,
+        "ns": 0,
+        "title": "PlayStation Portable",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PSP-1000.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3840,
+          "height": 2180
+        }
+      },
+      "31692117": {
+        "pageid": 31692117,
+        "ns": 0,
+        "title": "Raspberry Pi",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Raspberry_Pi_1%2C_Pi_5%2C_Pi_400%2C_Pico_and_Zero_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4995,
+          "height": 2985
+        }
+      },
+      "25971": {
+        "pageid": 25971,
+        "ns": 0,
+        "title": "Rubik's Cube",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 600,
+          "height": 600
+        }
+      },
+      "646753": {
+        "pageid": 646753,
+        "ns": 0,
+        "title": "Technics SL-1200",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Technics_SL-1200MK2-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2114,
+          "height": 1342
+        }
+      },
+      "33809": {
+        "pageid": 33809,
+        "ns": 0,
+        "title": "Walkman",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Walkman_logo_%282000%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 744,
+          "height": 386
+        }
+      },
+      "7514833": {
+        "pageid": 7514833,
+        "ns": 0,
+        "title": "Xbox 360"
+      },
+      "531921": {
+        "pageid": 531921,
+        "ns": 0,
+        "title": "Fender Stratocaster",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fender_Stratocaster_004-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1432,
+          "height": 2592
+        }
+      },
+      "1377176": {
+        "pageid": 1377176,
+        "ns": 0,
+        "title": "G-Shock"
+      },
+      "504131": {
+        "pageid": 504131,
+        "ns": 0,
+        "title": "Gibson Les Paul",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Full_front_R9_Les_Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3520,
+          "height": 5748
+        }
+      },
+      "2236316": {
+        "pageid": 2236316,
+        "ns": 0,
+        "title": "List of Bose headphones"
+      },
+      "438022": {
+        "pageid": 438022,
+        "ns": 0,
+        "title": "Nintendo DS",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Nintendo-DS-Fat-Blue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2660,
+          "height": 2420
+        }
+      },
+      "158696": {
+        "pageid": 158696,
+        "ns": 0,
+        "title": "Roland TR-808",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/TR-808_-_MIM%2C_Phoenix_%282019-08-30_14.59.26_by_Bryan_Pocius%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3764,
+          "height": 2240
+        }
+      },
+      "768912": {
+        "pageid": 768912,
+        "ns": 0,
+        "title": "Seiko",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ginza_4-Chome_Crossing_2021-04-28.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3927,
+          "height": 2945
+        }
+      },
+      "1313101": {
+        "pageid": 1313101,
+        "ns": 0,
+        "title": "Swatch",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Swatch-Bienne-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2736,
+          "height": 1824
+        }
+      }
+    }
+  }
+}
