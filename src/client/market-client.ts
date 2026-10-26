@@ -143,6 +143,7 @@ class OnlineAdapter implements MarketAdapter {
   }
   leave() {
     this.departing = true;
+    this.room.reconnection.enabled = false;
     clearInterval(this.clockTimer);
     try {sessionStorage.removeItem(cacheKey);} catch {}
     void this.room.leave();

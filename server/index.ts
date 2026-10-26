@@ -80,6 +80,9 @@ const endpoint =
 const server = defineServer({
   transport: new WebSocketTransport({
     maxPayload: 8192,
+    // Give connections through public proxies time to recover from brief stalls.
+    pingInterval: 10000,
+    pingMaxRetries: 6,
     beforeUpgrade: (_request,context) => originAllowed(context.headers.get("origin") ?? undefined) ? undefined : new globalThis.Response("Unrecognized request origin.",{status:403}),
   }),
   rooms: { auction: defineRoom(AuctionRoom) },
